@@ -1,0 +1,678 @@
+Lab;Diane Abbott, Lab MP for Hackney North and Stoke Newington
+Lab;Irene Adams, Lab MP for Paisley North
+Lab;Nick Ainger, Lab MP for Carmarthen West and South Pembrokeshire
+Lab;Bob Ainsworth, Lab MP for Coventry North East
+Con;Peter Ainsworth, Con MP for East Surrey
+LDem;Richard Allan, LDem MP for Sheffield, Hallam
+Lab;Graham Allen, Lab MP for Nottingham North
+Con;David Amess, Con MP for Southend West
+Con;Michael Ancram, Con MP for Devizes
+Lab;Donald Anderson, Lab MP for Swansea East
+Lab;Janet Anderson, Lab MP for Rossendale and Darwen
+Con;James Arbuthnot, Con MP for North East Hampshire
+Lab;Hilary Armstrong, Lab MP for North West Durham
+LDem;Paddy Ashdown, LDem MP for Yeovil
+Lab;Joe Ashton, Lab MP for Bassetlaw
+Lab;Candy Atherton, Lab MP for Falmouth and Camborne
+Lab;Charlotte Atkins, Lab MP for Staffordshire Moorlands
+Con;David Atkinson, Con MP for Bournemouth East
+Con;Peter Atkinson, Con MP for Hexham
+Lab;John Austin, Lab MP for Erith and Thamesmead
+LDem;Norman Baker, LDem MP for Lewes
+Con;Tony Baldry, Con MP for Banbury
+LDem;Jackie Ballard, LDem MP for Taunton
+Lab;Tony Banks, Lab MP for West Ham
+Lab;Harry Barnes, Lab MP for North East Derbyshire
+Lab;Kevin Barron, Lab MP for Rother Valley
+Lab;John Battle, Lab MP for Leeds West
+Lab;Hugh Bayley, Lab MP for City of York
+Lab;Nigel Beard, Lab MP for Bexleyheath and Crayford
+Lab;Margaret Beckett, Lab MP for Derby South
+Lab;Anne Begg, Lab MP for Aberdeen South
+UUP;Roy Beggs, UUP MP for East Antrim
+LDem;Alan Beith, LDem MP for Berwick-upon-Tweed
+Ind;Martin Bell, Ind MP for Tatton
+Lab;Stuart Bell, Lab MP for Middlesbrough
+Lab;Tony Benn, Lab MP for Chesterfield
+Lab;Andrew Bennett, Lab MP for Denton and Reddish
+Lab;Joe Benton, Lab MP for Bootle
+Con;John Bercow, Con MP for Buckingham
+Con;Paul Beresford, Con MP for Mole Valley
+Lab;Gerry Bermingham, Lab MP for St Helens South
+Lab;Roger Berry, Lab MP for Kingswood
+Lab;Harold Best, Lab MP for Leeds North West
+Lab;Clive Betts, Lab MP for Sheffield, Attercliffe
+Lab;Liz Blackman, Lab MP for Erewash
+Lab;Tony Blair, Lab MP for Sedgefield
+Lab;Hazel Blears, Lab MP for Salford
+Lab;Bob Blizzard, Lab MP for Waveney
+Lab;David Blunkett, Lab MP for Sheffield, Brightside
+Con;Crispin Blunt, Con MP for Reigate
+Lab;Paul Boateng, Lab MP for Brent South
+Con;Richard Body, Con MP for Boston and Skegness
+Lab;David Borrow, Lab MP for South Ribble
+Con;Tim Boswell, Con MP for Daventry
+Con;Peter Bottomley, Con MP for Worthing West
+Con;Virginia Bottomley, Con MP for South West Surrey
+Lab;Keith Bradley, Lab MP for Manchester, Withington
+Lab;Peter Bradley, Lab MP for The Wrekin
+Lab;Ben Bradshaw, Lab MP for Exeter
+Con;Graham Brady, Con MP for Altrincham and Sale West
+LDem;Tom Brake, LDem MP for Carshalton and Wallington
+LDem;Peter Brand, LDem MP for Isle of Wight
+Con;Julian Brazier, Con MP for Canterbury
+LDem;Colin Breed, LDem MP for South East Cornwall
+Con;Peter Brooke, Con MP for Cities of London and Westminster
+Lab;Gordon Brown, Lab MP for Dunfermline East
+Lab;Nick Brown, Lab MP for Newcastle upon Tyne East and Wallsend
+Lab;Russell Brown, Lab MP for Dumfries
+Lab;Des Browne, Lab MP for Kilmarnock and Loudoun
+Con;Angela Browning, Con MP for Tiverton and Honiton
+Con;Ian Bruce, Con MP for South Dorset
+LDem;Malcolm Bruce, LDem MP for Gordon
+Lab;Karen Buck, Lab MP for Regent's Park and Kensington North
+Lab;Richard Burden, Lab MP for Birmingham, Northfield
+Lab;Colin Burgon, Lab MP for Elmet
+LDem;John Burnett, LDem MP for Torridge and West Devon
+Con;Simon Burns, Con MP for West Chelmsford
+LDem;Paul Burstow, LDem MP for Sutton and Cheam
+Lab;Christine Butler, Lab MP for Castle Point
+Con;John Butterfill, Con MP for Bournemouth West
+Lab;Stephen Byers, Lab MP for North Tyneside
+LDem;Vincent Cable, LDem MP for Twickenham
+Lab;Richard Caborn, Lab MP for Sheffield Central
+Lab;Alan Campbell, Lab MP for Tynemouth
+Lab;Anne Campbell, Lab MP for Cambridge
+LDem;Menzies Campbell, LDem MP for North East Fife
+Lab;Ronnie Campbell, Lab MP for Blyth Valley
+Lab;Dale Campbell-Savours, Lab MP for Workington
+Lab;Dennis Canavan, Lab MP for Falkirk West
+Lab;Jamie Cann, Lab MP for Ipswich
+Lab;Ivor Caplin, Lab MP for Hove
+Lab;Roger Casale, Lab MP for Wimbledon
+Con;William Cash, Con MP for Stone
+Lab;Martin Caton, Lab MP for Gower
+Lab;Ian Cawsey, Lab MP for Brigg and Goole
+Lab;Ben Chapman, Lab MP for Wirral South
+Con;Sydney Chapman, Con MP for Chipping Barnet
+Lab;David Chaytor, Lab MP for Bury North
+LDem;David Chidgey, LDem MP for Eastleigh
+Lab;Malcolm Chisholm, Lab MP for Edinburgh North and Leith
+Con;Christopher Chope, Con MP for Christchurch
+Lab;Judith Church, Lab MP for Dagenham
+Lab;Michael Clapham, Lab MP for Barnsley West and Penistone
+Con;James Clappison, Con MP for Hertsmere
+Con;Alan Clark, Con MP for Kensington and Chelsea
+Lab;David Clark, Lab MP for South Shields
+Lab;Helen Clark, Lab MP for Peterborough
+Lab;Lynda Clark, Lab MP for Edinburgh Pentlands
+Con;Michael Clark, Con MP for Rayleigh
+Lab;Paul Clark, Lab MP for Gillingham
+Lab;Charles Clarke, Lab MP for Norwich South
+Lab;Eric Clarke, Lab MP for Midlothian
+Con;Kenneth Clarke, Con MP for Rushcliffe
+Lab;Tom Clarke, Lab MP for Coatbridge and Chryston
+Lab;Tony Clarke, Lab MP for Northampton South
+Lab;David Clelland, Lab MP for Tyne Bridge
+Con;Geoffrey Clifton-Brown, Con MP for Cotswold
+Lab;Ann Clwyd, Lab MP for Cynon Valley
+Lab;Vernon Coaker, Lab MP for Gedling
+Lab;Ann Coffey, Lab MP for Stockport
+Lab;Harry Cohen, Lab MP for Leyton and Wanstead
+Lab;Iain Coleman, Lab MP for Hammersmith and Fulham
+Con;Tim Collins, Con MP for Westmorland and Lonsdale
+Lab;Tony Colman, Lab MP for Putney
+Con;Michael Colvin, Con MP for Romsey
+Lab;Michael Connarty, Lab MP for Falkirk East
+Lab;Frank Cook, Lab MP for Stockton North
+Lab;Robin Cook, Lab MP for Livingston
+Lab;Yvette Cooper, Lab MP for Pontefract and Castleford
+Lab;Robin Corbett, Lab MP for Birmingham, Erdington
+Lab;Jeremy Corbyn, Lab MP for Islington North
+Con;Patrick Cormack, Con MP for South Staffordshire
+Lab;Jean Corston, Lab MP for Bristol East
+LDem;Brian Cotter, LDem MP for Weston-Super-Mare
+Lab;Jim Cousins, Lab MP for Newcastle upon Tyne Central
+Lab;Tom Cox, Lab MP for Tooting
+Con;James Cran, Con MP for Beverley and Holderness
+Lab;Ross Cranston, Lab MP for Dudley North
+Lab;David Crausby, Lab MP for Bolton North East
+Lab;Ann Cryer, Lab MP for Keighley
+Lab;John Cryer, Lab MP for Hornchurch
+Lab;John Cummings, Lab MP for Easington
+Lab;Lawrence Cunliffe, Lab MP for Leigh
+Lab;Jack Cunningham, Lab MP for Copeland
+Lab;Jim Cunningham, Lab MP for Coventry South
+SNP;Roseanna Cunningham, SNP MP for Perth
+Con;David Curry, Con MP for Skipton and Ripon
+Lab;Claire Curtis-Thomas, Lab MP for Crosby
+PC;Cynog Dafis, PC MP for Ceredigion
+Lab;Tam Dalyell, Lab MP for Linlithgow
+Lab;Alistair Darling, Lab MP for Edinburgh Central
+Lab;Keith Darvill, Lab MP for Upminster
+LDem;Edward Davey, LDem MP for Kingston and Surbiton
+Lab;Valerie Davey, Lab MP for Bristol West
+Lab/Co-op;Ian Davidson, Lab/Co-op MP for Glasgow Pollok
+Lab;Denzil Davies, Lab MP for Llanelli
+Lab;Geraint Davies, Lab MP for Croydon Central
+Con;Quentin Davies, Con MP for Grantham and Stamford
+Lab;Ron Davies, Lab MP for Caerphilly
+Con;David Davis, Con MP for Haltemprice and Howden
+Lab;Terry Davis, Lab MP for Birmingham, Hodge Hill
+Lab;Hilton Dawson, Lab MP for Lancaster and Wyre
+Con;Stephen Day, Con MP for Cheadle
+Lab;Janet Dean, Lab MP for Burton
+Lab;John Denham, Lab MP for Southampton, Itchen
+Lab;Donald Dewar, Lab MP for Glasgow Anniesland
+Lab;Andrew Dismore, Lab MP for Hendon
+Lab/Co-op;Jim Dobbin, Lab/Co-op MP for Heywood and Middleton
+Lab;Frank Dobson, Lab MP for Holborn and St Pancras
+UUP;Jeffrey M Donaldson, UUP MP for Lagan Valley
+Lab;Brian H Donohoe, Lab MP for Cunninghame South
+Lab;Frank Doran, Lab MP for Aberdeen Central
+Con;Stephen Dorrell, Con MP for Charnwood
+Lab;Jim Dowd, Lab MP for Lewisham West
+Lab/Co-op;David Drew, Lab/Co-op MP for Stroud
+Lab;Julia Drown, Lab MP for South Swindon
+Con;Alan Duncan, Con MP for Rutland and Melton
+Con;Iain Duncan Smith, Con MP for Chingford and Woodford Green
+Lab;Gwyneth Dunwoody, Lab MP for Crewe and Nantwich
+Lab;Angela Eagle, Lab MP for Wallasey
+Lab;Maria Eagle, Lab MP for Liverpool, Garston
+Lab;Huw Edwards, Lab MP for Monmouth
+Lab;Clive Efford, Lab MP for Eltham
+Lab/Co-op;Louise Ellman, Lab/Co-op MP for Liverpool, Riverside
+Con;Peter Emery, Con MP for East Devon
+Lab;Jeff Ennis, Lab MP for Barnsley East and Mexborough
+Lab;Bill Etherington, Lab MP for Sunderland North
+Con;Nigel Evans, Con MP for Ribble Valley
+SNP;Margaret Ewing, SNP MP for Moray
+Con;David Faber, Con MP for Westbury
+Con;Michael Fabricant, Con MP for Lichfield
+Con;Michael Fallon, Con MP for Sevenoaks
+Lab;Derek Fatchett, Lab MP for Leeds Central
+LDem;Ronnie Fearn, LDem MP for Southport
+Lab;Frank Field, Lab MP for Birkenhead
+Lab;Mark Fisher, Lab MP for Stoke-on-Trent Central
+Lab;Jim Fitzpatrick, Lab MP for Poplar and Canning Town
+Lab;Lorna Fitzsimons, Lab MP for Rochdale
+Con;Howard Flight, Con MP for Arundel and South Downs
+Lab;Caroline Flint, Lab MP for Don Valley
+Lab;Paul Flynn, Lab MP for Newport West
+Lab;Barbara Follett, Lab MP for Stevenage
+UUP;Clifford Forsythe, UUP MP for South Antrim
+Con;Eric Forth, Con MP for Bromley and Chislehurst
+Lab;Derek Foster, Lab MP for Bishop Auckland
+LDem;Don Foster, LDem MP for Bath
+Lab;Michael Foster, Lab MP for Worcester
+Lab;Michael Jabez Foster, Lab MP for Hastings and Rye
+Lab/Co-op;George Foulkes, Lab/Co-op MP for Carrick, Cumnock and Doon Valley
+Con;Norman Fowler, Con MP for Sutton Coldfield
+Con;Liam Fox, Con MP for Woodspring
+Con;Christopher Fraser, Con MP for Mid Dorset and North Poole
+Lab;Maria Fyfe, Lab MP for Glasgow Maryhill
+Lab;Sam Galbraith, Lab MP for Strathkelvin and Bearsden
+Con;Roger Gale, Con MP for North Thanet
+Lab;George Galloway, Lab MP for Glasgow Kelvin
+Lab/Co-op;Mike Gapes, Lab/Co-op MP for Ilford South
+Lab;Barry Gardiner, Lab MP for Brent North
+Con;Edward Garnier, Con MP for Harborough
+LDem;Andrew George, LDem MP for St Ives
+Lab;Bruce George, Lab MP for Walsall South
+Lab;Neil Gerrard, Lab MP for Walthamstow
+Con;Nick Gibb, Con MP for Bognor Regis and Littlehampton
+Lab;Ian Gibson, Lab MP for Norwich North
+Con;Christopher Gill, Con MP for Ludlow
+Con;Cheryl Gillan, Con MP for Chesham and Amersham
+Lab/Co-op;Linda Gilroy, Lab/Co-op MP for Plymouth, Sutton
+Lab;Norman Godman, Lab MP for Greenock and Inverclyde
+Lab;Roger Godsiff, Lab MP for Birmingham, Sparkbrook and Small Heath
+Lab;Paul Goggins, Lab MP for Wythenshawe and Sale East
+Lab;Llin Golding, Lab MP for Newcastle-under-Lyme
+Con;Alastair Goodlad, Con MP for Eddisbury
+Lab;Eileen Gordon, Lab MP for Romford
+Con;Teresa Gorman, Con MP for Billericay
+LDem;Donald Gorrie, LDem MP for Edinburgh West
+Lab;Tommy Graham, Lab MP for West Renfrewshire
+Lab;Bernie Grant, Lab MP for Tottenham
+Con;James Gray, Con MP for North Wiltshire
+Con;Damian Green, Con MP for Ashford
+Con;John Greenway, Con MP for Ryedale
+Con;Dominic Grieve, Con MP for Beaconsfield
+Lab;Jane Griffiths, Lab MP for Reading East
+Lab;Nigel Griffiths, Lab MP for Edinburgh South
+Lab;Win Griffiths, Lab MP for Bridgend
+Lab;Bruce Grocott, Lab MP for Telford
+Lab;John Grogan, Lab MP for Selby
+Con;John Gummer, Con MP for Suffolk Coastal
+Lab;John Gunnell, Lab MP for Morley and Rothwell
+Con;William Hague, Con MP for Richmond (Yorks)
+Lab;Peter Hain, Lab MP for Neath
+Lab;Mike Hall, Lab MP for Weaver Vale
+Lab;Patrick Hall, Lab MP for Bedford
+Con;Archie Hamilton, Con MP for Epsom and Ewell
+Lab;Fabian Hamilton, Lab MP for Leeds North East
+Con;Philip Hammond, Con MP for Runnymede and Weybridge
+LDem;Mike Hancock, LDem MP for Portsmouth South
+Lab;David Hanson, Lab MP for Delyn
+Lab;Harriet Harman, Lab MP for Camberwell and Peckham
+LDem;Evan Harris, LDem MP for Oxford West and Abingdon
+LDem;Nick Harvey, LDem MP for North Devon
+CWM;Alan Haselhurst, CWM MP for Saffron Walden
+Con;Nick Hawkins, Con MP for Surrey Heath
+Con;John Hayes, Con MP for South Holland and The Deepings
+Lab;Sylvia Heal, Lab MP for Halesowen and Rowley Regis
+Con;Oliver Heald, Con MP for North East Hertfordshire
+Lab;John Healey, Lab MP for Wentworth
+LDem;David Heath, LDem MP for Somerton and Frome
+Con;Edward Heath, Con MP for Old Bexley and Sidcup
+Con;David Heathcoat-Amory, Con MP for Wells
+Lab;Doug Henderson, Lab MP for Newcastle upon Tyne North
+Lab;Ivan Henderson, Lab MP for Harwich
+Lab;Stephen Hepburn, Lab MP for Jarrow
+Lab;John Heppell, Lab MP for Nottingham East
+Con;Michael Heseltine, Con MP for Henley
+Lab;Stephen Hesford, Lab MP for Wirral West
+Lab;Patricia Hewitt, Lab MP for Leicester West
+Lab;Keith Hill, Lab MP for Streatham
+Lab;David Hinchliffe, Lab MP for Wakefield
+Lab;Margaret Hodge, Lab MP for Barking
+Lab;Kate Hoey, Lab MP for Vauxhall
+Con;Douglas Hogg, Con MP for Sleaford and North Hykeham
+Lab;John Home Robertson, Lab MP for East Lothian
+Lab;Jimmy Hood, Lab MP for Clydesdale
+Lab;Geoff Hoon, Lab MP for Ashfield
+Lab/Co-op;Phil Hope, Lab/Co-op MP for Corby
+Lab;Kelvin Hopkins, Lab MP for Luton North
+Con;John Horam, Con MP for Orpington
+Con;Michael Howard, Con MP for Folkestone and Hythe
+Lab;Alan Howarth, Lab MP for Newport East
+Lab;George Howarth, Lab MP for Knowsley North and Sefton East
+Con;Gerald Howarth, Con MP for Aldershot
+Lab;Kim Howells, Lab MP for Pontypridd
+Lab;Lindsay Hoyle, Lab MP for Chorley
+Lab;Beverley Hughes, Lab MP for Stretford and Urmston
+Lab;Kevin Hughes, Lab MP for Doncaster North
+LDem;Simon Hughes, LDem MP for North Southwark and Bermondsey
+Lab;Joan Humble, Lab MP for Blackpool North and Fleetwood
+SDLP;John Hume, SDLP MP for Foyle
+Con;Andrew Hunter, Con MP for Basingstoke
+Lab;Alan Hurst, Lab MP for Braintree
+Lab;John Hutton, Lab MP for Barrow and Furness
+Lab;Brian Iddon, Lab MP for Bolton South East
+Lab;Eric Illsley, Lab MP for Barnsley Central
+Lab;Adam Ingram, Lab MP for East Kilbride
+Con;Michael Jack, Con MP for Fylde
+Lab;Glenda Jackson, Lab MP for Hampstead and Highgate
+Lab;Helen Jackson, Lab MP for Sheffield, Hillsborough
+Con;Robert Jackson, Con MP for Wantage
+Lab;David Jamieson, Lab MP for Plymouth, Devonport
+Con;Bernard Jenkin, Con MP for North Essex
+Lab;Brian Jenkins, Lab MP for Tamworth
+Lab;Alan Johnson, Lab MP for Kingston upon Hull West and Hessle
+Lab;Melanie Johnson, Lab MP for Welwyn Hatfield
+Con;Geoffrey Johnson Smith, Con MP for Wealden
+Lab;Barry Jones, Lab MP for Alyn and Deeside
+Lab;Fiona Jones, Lab MP for Newark
+Lab;Helen Jones, Lab MP for Warrington North
+PC;Ieuan Wyn Jones, PC MP for Ynys Môn
+Lab;Jenny Jones, Lab MP for Wolverhampton South West
+Lab/Co-op;Jon Owen Jones, Lab/Co-op MP for Cardiff Central
+Lab;Lynne Jones, Lab MP for Birmingham, Selly Oak
+Lab;Martyn Jones, Lab MP for Clwyd South
+LDem;Nigel Jones, LDem MP for Cheltenham
+Lab;Tessa Jowell, Lab MP for Dulwich and West Norwood
+Lab;Gerald Kaufman, Lab MP for Manchester, Gorton
+Lab;Sally Keeble, Lab MP for Northampton North
+Lab/Co-op;Alan Keen, Lab/Co-op MP for Feltham and Heston
+Lab;Ann Keen, Lab MP for Brentford and Isleworth
+LDem;Paul Keetch, LDem MP for Hereford
+Lab;Ruth Kelly, Lab MP for Bolton West
+Lab;Fraser Kemp, Lab MP for Houghton and Washington East
+LDem;Charles Kennedy, LDem MP for Ross, Skye and Inverness West
+Lab;Jane Kennedy, Lab MP for Liverpool, Wavertree
+Con;Robert Key, Con MP for Salisbury
+Lab;Piara S Khabra, Lab MP for Ealing, Southall
+Lab;David Kidney, Lab MP for Stafford
+Lab;Peter Kilfoyle, Lab MP for Liverpool, Walton
+Lab;Andy King, Lab MP for Rugby and Kenilworth
+Lab;Oona King, Lab MP for Bethnal Green and Bow
+Con;Tom King, Con MP for Bridgwater
+Lab;Tess Kingham, Lab MP for Gloucester
+Con;Julie Kirkbride, Con MP for Bromsgrove
+LDem;Archy Kirkwood, LDem MP for Roxburgh and Berwickshire
+Lab;Ashok Kumar, Lab MP for Middlesbrough South and East Cleveland
+Lab;Stephen Ladyman, Lab MP for South Thanet
+Con;Eleanor Laing, Con MP for Epping Forest
+Con;Andrew Lansley, Con MP for South Cambridgeshire
+Lab;Jackie Lawrence, Lab MP for Preseli Pembrokeshire
+Lab;Bob Laxton, Lab MP for Derby North
+Con;Edward Leigh, Con MP for Gainsborough
+Lab/Co-op;David Lepper, Lab/Co-op MP for Brighton, Pavilion
+Lab;Christopher Leslie, Lab MP for Shipley
+Con;Oliver Letwin, Con MP for West Dorset
+Lab;Tom Levitt, Lab MP for High Peak
+Lab;Ivan Lewis, Lab MP for Bury South
+Con;Julian Lewis, Con MP for New Forest East
+Lab;Terry Lewis, Lab MP for Worsley
+Lab;Helen Liddell, Lab MP for Airdrie and Shotts
+Con;David Lidington, Con MP for Aylesbury
+Con;Peter Lilley, Con MP for Hitchin and Harpenden
+Lab;Martin Linton, Lab MP for Battersea
+Lab;Ken Livingstone, Lab MP for Brent East
+LDem;Richard Livsey, LDem MP for Brecon and Radnorshire
+Con;Peter Lloyd, Con MP for Fareham
+Lab;Tony Lloyd, Lab MP for Manchester Central
+PC;Elfyn Llwyd, PC MP for Meirionnydd Nant Conwy
+Lab;David Lock, Lab MP for Wyre Forest
+DCWM;Michael Lord, DCWM MP for Central Suffolk and North Ipswich
+Con;Tim Loughton, Con MP for East Worthing and Shoreham
+Lab/Co-op;Andrew Love, Lab/Co-op MP for Edmonton
+Con;Peter Luff, Con MP for Mid Worcestershire
+Con;Nicholas Lyell, Con MP for North East Bedfordshire
+Lab;John McAllion, Lab MP for Dundee East
+Lab/Co-op;Thomas McAvoy, Lab/Co-op MP for Glasgow Rutherglen
+Lab;Stephen McCabe, Lab MP for Birmingham, Hall Green
+Lab;Chris McCafferty, Lab MP for Calder Valley
+Lab;Ian McCartney, Lab MP for Makerfield
+UKUP;Robert McCartney, UKUP MP for North Down
+Lab;Siobhain McDonagh, Lab MP for Mitcham and Morden
+Lab;Calum MacDonald, Lab MP for Na h-Eileanan an Iar
+Lab;John McDonnell, Lab MP for Hayes and Harlington
+Lab/Co-op;John McFall, Lab/Co-op MP for Dumbarton
+SDLP;Eddie McGrady, SDLP MP for South Down
+Con;John MacGregor, Con MP for South Norfolk
+Lab;Anne McGuire, Lab MP for Stirling
+Con;Anne McIntosh, Con MP for Vale of York
+Lab;Shona McIsaac, Lab MP for Cleethorpes
+Con;Andrew MacKay, Con MP for Bracknell
+Lab;Rosemary McKenna, Lab MP for Cumbernauld and Kilsyth
+Lab;Andrew MacKinlay, Lab MP for Thurrock
+Con;David Maclean, Con MP for Penrith and The Border
+Lab;Henry McLeish, Lab MP for Central Fife
+LDem;Robert Maclennan, LDem MP for Caithness, Sutherland and Easter Ross
+Con;Patrick McLoughlin, Con MP for West Derbyshire
+Lab;Gordon McMaster, Lab MP for Paisley South
+Lab;Kevin McNamara, Lab MP for Kingston upon Hull North
+Lab;Tony McNulty, Lab MP for Harrow East
+Lab;Denis MacShane, Lab MP for Rotherham
+Lab;Fiona Mactaggart, Lab MP for Slough
+Lab/Co-op;Tony McWalter, Lab/Co-op MP for Hemel Hempstead
+Lab;John McWilliam, Lab MP for Blaydon
+Con;David Madel, Con MP for South West Bedfordshire
+UUP;Ken Maginnis, UUP MP for Fermanagh and South Tyrone
+Lab;Alice Mahon, Lab MP for Halifax
+Con;John Major, Con MP for Huntingdon
+Con;Humfrey Malins, Con MP for Woking
+Lab;Judy Mallaber, Lab MP for Amber Valley
+SDLP;Seamus Mallon, SDLP MP for Newry and Armagh
+Lab;Peter Mandelson, Lab MP for Hartlepool
+Con;John Maples, Con MP for Stratford-on-Avon
+Lab;John Marek, Lab MP for Wrexham
+Lab;Gordon Marsden, Lab MP for Blackpool South
+Lab;Paul Marsden, Lab MP for Shrewsbury and Atcham
+Lab;David Marshall, Lab MP for Glasgow Shettleston
+Lab;Jim Marshall, Lab MP for Leicester South
+Lab;Robert Marshall-Andrews, Lab MP for Medway
+Lab;Eric Martlew, Lab MP for Carlisle
+Con;Michael Mates, Con MP for East Hampshire
+Con;Francis Maude, Con MP for Horsham
+Con;Brian Mawhinney, Con MP for North West Cambridgeshire
+Lab;John Maxton, Lab MP for Glasgow Cathcart
+Con;Theresa May, Con MP for Maidenhead
+Lab;Michael Meacher, Lab MP for Oldham West and Royton
+Lab;Alan Meale, Lab MP for Mansfield
+Con;Piers Merchant, Con MP for Beckenham
+Lab;Gillian Merron, Lab MP for Lincoln
+Lab/Co-op;Alun Michael, Lab/Co-op MP for Cardiff South and Penarth
+Lab;Bill Michie, Lab MP for Sheffield, Heeley
+LDem;Ray Michie, LDem MP for Argyll and Bute
+Lab;Alan Milburn, Lab MP for Darlington
+Lab;Andrew Miller, Lab MP for Ellesmere Port and Neston
+Lab;Austin Mitchell, Lab MP for Great Grimsby
+Lab;Laura Moffatt, Lab MP for Crawley
+Lab/Co-op;Lewis Moonie, Lab/Co-op MP for Kirkcaldy
+LDem;Michael Moore, LDem MP for Tweeddale, Ettrick and Lauderdale
+Lab;Margaret Moran, Lab MP for Luton South
+SNP;Alasdair Morgan, SNP MP for Galloway and Upper Nithsdale
+Lab;Julie Morgan, Lab MP for Cardiff North
+Lab;Rhodri Morgan, Lab MP for Cardiff West
+Lab;Elliot Morley, Lab MP for Scunthorpe
+Lab;Estelle Morris, Lab MP for Birmingham, Yardley
+Lab;John Morris, Lab MP for Aberavon
+Con;Malcolm Moss, Con MP for North East Cambridgeshire
+Lab;Kali Mountford, Lab MP for Colne Valley
+Lab;Mo Mowlam, Lab MP for Redcar
+Lab;George Mudie, Lab MP for Leeds East
+Lab;Chris Mullin, Lab MP for Sunderland South
+Lab;Denis Murphy, Lab MP for Wansbeck
+Lab;Jim Murphy, Lab MP for East Renfrewshire
+Lab;Paul Murphy, Lab MP for Torfaen
+Lab/Co-op;Doug Naysmith, Lab/Co-op MP for Bristol North West
+Con;Patrick Nicholls, Con MP for Teignbridge
+Con;Archie Norman, Con MP for Tunbridge Wells
+Lab;Dan Norris, Lab MP for Wansdyke
+LDem;Mark Oaten, LDem MP for Winchester
+Lab;Bill O'Brien, Lab MP for Normanton
+Lab;Mike O'Brien, Lab MP for North Warwickshire
+Lab;Edward O'Hara, Lab MP for Knowsley South
+Lab;Bill Olner, Lab MP for Nuneaton
+Lab;Martin O'Neill, Lab MP for Ochil
+LDem;Lembit Öpik, LDem MP for Montgomeryshire
+Lab;Diana Organ, Lab MP for Forest of Dean
+Lab;Sandra Osborne, Lab MP for Ayr
+Con;Richard Ottaway, Con MP for Croydon South
+Con;Richard Page, Con MP for South West Hertfordshire
+Con;James Paice, Con MP for South East Cambridgeshire
+DUP;Ian Paisley, DUP MP for North Antrim
+Lab;Nick Palmer, Lab MP for Broxtowe
+Con;Owen Paterson, Con MP for North Shropshire
+Lab;Ian Pearson, Lab MP for Dudley South
+Lab;Tom Pendry, Lab MP for Stalybridge and Hyde
+Lab;Linda Perham, Lab MP for Ilford North
+Con;Eric Pickles, Con MP for Brentwood and Ongar
+Lab;Colin Pickthall, Lab MP for West Lancashire
+Lab;Peter Pike, Lab MP for Burnley
+Lab;James Plaskitt, Lab MP for Warwick and Leamington
+Lab;Kerry Pollard, Lab MP for St Albans
+Lab;Chris Pond, Lab MP for Gravesham
+Lab;Greg Pope, Lab MP for Hyndburn
+Lab;Stephen Pound, Lab MP for Ealing North
+Lab;Raymond Powell, Lab MP for Ogmore
+Lab;Bridget Prentice, Lab MP for Lewisham East
+Lab;Gordon Prentice, Lab MP for Pendle
+Lab;John Prescott, Lab MP for Kingston upon Hull East
+Lab;Dawn Primarolo, Lab MP for Bristol South
+Con;David Prior, Con MP for North Norfolk
+Lab;Gwyn Prosser, Lab MP for Dover
+Lab/Co-op;Ken Purchase, Lab/Co-op MP for Wolverhampton North East
+Lab;Joyce Quin, Lab MP for Gateshead East and Washington West
+Lab;Lawrie Quinn, Lab MP for Scarborough and Whitby
+Lab;Giles Radice, Lab MP for North Durham
+Lab;Bill Rammell, Lab MP for Harlow
+Lab;Syd Rapson, Lab MP for Portsmouth North
+Lab;Nick Raynsford, Lab MP for Greenwich and Woolwich
+Con;John Redwood, Con MP for Wokingham
+Lab/Co-op;Andy Reed, Lab/Co-op MP for Loughborough
+Lab;John Reid, Lab MP for Hamilton North and Bellshill
+LDem;David Rendel, LDem MP for Newbury
+Con;Andrew Robathan, Con MP for Blaby
+Lab;George Robertson, Lab MP for Hamilton South
+Con;Laurence Robertson, Con MP for Tewkesbury
+Lab;Geoffrey Robinson, Lab MP for Coventry North West
+DUP;Peter Robinson, DUP MP for Belfast East
+Lab;Barbara Roche, Lab MP for Hornsey and Wood Green
+Con;Marion Roe, Con MP for Broxbourne
+Lab;Allan Rogers, Lab MP for Rhondda
+Lab;Jeff Rooker, Lab MP for Birmingham, Perry Barr
+Lab;Terry Rooney, Lab MP for Bradford North
+Lab;Ernie Ross, Lab MP for Dundee West
+UUP;William Ross, UUP MP for East Londonderry
+Con;Andrew Rowe, Con MP for Faversham and Mid Kent
+Lab;Ted Rowlands, Lab MP for Merthyr Tydfil and Rhymney
+Lab;Frank Roy, Lab MP for Motherwell and Wishaw
+Lab;Chris Ruane, Lab MP for Vale of Clwyd
+Lab;Joan Ruddock, Lab MP for Lewisham, Deptford
+Con;David Ruffley, Con MP for Bury St Edmunds
+LDem;Bob Russell, LDem MP for Colchester
+Lab;Christine Russell, Lab MP for City of Chester
+Lab;Joan Ryan, Lab MP for Enfield North
+Con;Nick St Aubyn, Con MP for Guildford
+SNP;Alex Salmond, SNP MP for Banff and Buchan
+Lab;Martin Salter, Lab MP for Reading West
+LDem;Adrian Sanders, LDem MP for Torbay
+Lab;Mohammad Sarwar, Lab MP for Glasgow Govan
+Lab;Malcolm Savidge, Lab MP for Aberdeen North
+Lab;Phil Sawford, Lab MP for Kettering
+Con;Jonathan Sayeed, Con MP for Mid Bedfordshire
+Lab;Brian Sedgemore, Lab MP for Hackney South and Shoreditch
+Lab;Jonathan R Shaw, Lab MP for Chatham and Aylesford
+Lab/Co-op;Barry Sheerman, Lab/Co-op MP for Huddersfield
+Lab;Robert Sheldon, Lab MP for Ashton-under-Lyne
+Con;Gillian Shephard, Con MP for South West Norfolk
+Con;Richard Shepherd, Con MP for Aldridge-Brownhills
+Lab;Debra Shipley, Lab MP for Stourbridge
+Lab;Clare Short, Lab MP for Birmingham, Ladywood
+Lab;Alan Simpson, Lab MP for Nottingham South
+Con;Keith Simpson, Con MP for Mid Norfolk
+Lab;Marsha Singh, Lab MP for Bradford West
+Lab;Dennis Skinner, Lab MP for Bolsover
+Lab;Andrew Smith, Lab MP for Oxford East
+Lab/Co-op;Angela Smith, Lab/Co-op MP for Basildon
+Lab;Chris Smith, Lab MP for Islington South and Finsbury
+Lab;Geraldine Smith, Lab MP for Morecambe and Lunesdale
+Lab;Jacqui Smith, Lab MP for Redditch
+Lab;John Smith, Lab MP for Vale of Glamorgan
+Lab;Llew Smith, Lab MP for Blaenau Gwent
+LDem;Robert Smith, LDem MP for West Aberdeenshire and Kincardine
+UUP;Martin Smyth, UUP MP for Belfast South
+Lab;Peter Snape, Lab MP for West Bromwich East
+Con;Nicholas Soames, Con MP for Mid Sussex
+Lab;Clive Soley, Lab MP for Ealing, Acton and Shepherd's Bush
+Lab;Helen Southworth, Lab MP for Warrington South
+Lab;John Spellar, Lab MP for Warley
+Con;Caroline Spelman, Con MP for Meriden
+Con;Michael Spicer, Con MP for West Worcestershire
+Con;Richard Spring, Con MP for West Suffolk
+Lab;Rachel Squire, Lab MP for Dunfermline West
+Con;John Stanley, Con MP for Tonbridge and Malling
+Lab;Phyllis Starkey, Lab MP for Milton Keynes South West
+Con;Anthony Steen, Con MP for Totnes
+Lab;Gerry Steinberg, Lab MP for City of Durham
+Lab;George Stevenson, Lab MP for Stoke-on-Trent South
+Lab;David Stewart, Lab MP for Inverness East, Nairn and Lochaber
+Lab;Ian Stewart, Lab MP for Eccles
+Lab;Paul Stinchcombe, Lab MP for Wellingborough
+Lab;Howard Stoate, Lab MP for Dartford
+Lab;Roger Stott, Lab MP for Wigan
+Lab;Gavin Strang, Lab MP for Edinburgh East and Musselburgh
+Lab;Jack Straw, Lab MP for Blackburn
+Con;Gary Streeter, Con MP for South West Devon
+Lab;Graham Stringer, Lab MP for Manchester, Blackley
+Lab;Gisela Stuart, Lab MP for Birmingham, Edgbaston
+LDem;Andrew Stunell, LDem MP for Hazel Grove
+Lab;Gerry Sutcliffe, Lab MP for Bradford South
+Con;Desmond Swayne, Con MP for New Forest West
+SNP;John Swinney, SNP MP for North Tayside
+Con;Robert Syms, Con MP for Poole
+Con;Peter Tapsell, Con MP for Louth and Horncastle
+Lab;Ann Taylor, Lab MP for Dewsbury
+Lab;Dari Taylor, Lab MP for Stockton South
+Lab/Co-op;David Taylor, Lab/Co-op MP for North West Leicestershire
+Con;Ian Taylor, Con MP for Esher and Walton
+Con;John Taylor, Con MP for Solihull
+UUP;John D Taylor, UUP MP for Strangford
+LDem;Matthew Taylor, LDem MP for Truro and St Austell
+Con;Teddy Taylor, Con MP for Rochford and Southend East
+Con;Peter Temple-Morris, Con MP for Leominster
+Lab;Gareth Thomas, Lab MP for Clwyd West
+Lab;Gareth Thomas, Lab MP for Harrow West
+UUP;William Thompson, UUP MP for West Tyrone
+Lab;Stephen Timms, Lab MP for East Ham
+Lab;Paddy Tipping, Lab MP for Sherwood
+Lab;Mark Todd, Lab MP for South Derbyshire
+LDem;Jenny Tonge, LDem MP for Richmond Park
+Lab/Co-op;Don Touhig, Lab/Co-op MP for Islwyn
+Con;John Townend, Con MP for East Yorkshire
+Con;David Tredinnick, Con MP for Bosworth
+Con;Michael Trend, Con MP for Windsor
+Lab;Jon Trickett, Lab MP for Hemsworth
+UUP;David Trimble, UUP MP for Upper Bann
+Lab;Paul Truswell, Lab MP for Pudsey
+Lab/Co-op;Dennis Turner, Lab/Co-op MP for Wolverhampton South East
+Lab;Desmond Turner, Lab MP for Brighton, Kemptown
+Lab;George Turner, Lab MP for North West Norfolk
+Lab;Derek Twigg, Lab MP for Halton
+Lab;Stephen Twigg, Lab MP for Enfield, Southgate
+LDem;Paul Tyler, LDem MP for North Cornwall
+Con;Andrew Tyrie, Con MP for Chichester
+Lab;Keith Vaz, Lab MP for Leicester East
+Con;Peter Viggers, Con MP for Gosport
+Lab;Rudi Vis, Lab MP for Finchley and Golders Green
+UUP;Cecil Walker, UUP MP for Belfast North
+LDem;Jim Wallace, LDem MP for Orkney and Shetland
+Lab;Joan Walley, Lab MP for Stoke-on-Trent North
+Con;Robert Walter, Con MP for North Dorset
+Lab;Claire Ward, Lab MP for Watford
+Con;Charles Wardle, Con MP for Bexhill and Battle
+Lab;Robert Wareing, Lab MP for Liverpool, West Derby
+Con;Nigel Waterson, Con MP for Eastbourne
+Lab;Dave Watts, Lab MP for St Helens North
+LDem;Steve Webb, LDem MP for Northavon
+Con;Bowen Wells, Con MP for Hertford and Stortford
+SNP;Andrew Welsh, SNP MP for Angus
+Lab;Brian White, Lab MP for North East Milton Keynes
+Lab;Alan Whitehead, Lab MP for Southampton, Test
+Con;Ray Whitney, Con MP for Wycombe
+Con;John Whittingdale, Con MP for Maldon and East Chelmsford
+Lab;Malcolm Wicks, Lab MP for Croydon North
+Con;Ann Widdecombe, Con MP for Maidstone and The Weald
+PC;Dafydd Wigley, PC MP for Caernarfon
+Con;John Wilkinson, Con MP for Ruislip - Northwood
+Con;David Willetts, Con MP for Havant
+Lab;Alan Williams, Lab MP for Carmarthen East and Dinefwr
+Lab;Alan Williams, Lab MP for Swansea West
+Lab;Betty Williams, Lab MP for Conwy
+LDem;Phil Willis, LDem MP for Harrogate and Knaresborough
+Lab;Michael Wills, Lab MP for North Swindon
+Con;David Wilshire, Con MP for Spelthorne
+Lab;Brian Wilson, Lab MP for Cunninghame North
+Lab;David Winnick, Lab MP for Walsall North
+Con;Ann Winterton, Con MP for Congleton
+Con;Nicholas Winterton, Con MP for Macclesfield
+Lab;Rosie Winterton, Lab MP for Doncaster Central
+Lab;Audrey Wise, Lab MP for Preston
+Lab;Mike Wood, Lab MP for Batley and Spen
+Con;Shaun Woodward, Con MP for Witney
+Lab;Phil Woolas, Lab MP for Oldham East and Saddleworth
+Lab;Tony Worthington, Lab MP for Clydebank and Milngavie
+Lab;Jimmy Wray, Lab MP for Glasgow Baillieston
+Lab;Anthony D Wright, Lab MP for Great Yarmouth
+Lab;Tony Wright, Lab MP for Cannock Chase
+Lab;Derek Wyatt, Lab MP for Sittingbourne and Sheppey
+Con;Tim Yeo, Con MP for South Suffolk
+Con;George Young, Con MP for North West Hampshire
+Con;John Randall, Con MP for Uxbridge
+Lab;Douglas Alexander, Lab MP for Paisley South
+Con;Jacqui Lait, Con MP for Beckenham
+LDem;Mark Oaten, LDem MP for Winchester
+Ind Con;Peter Temple-Morris, Ind Con MP for Leominster
+Lab;Peter Temple-Morris, Lab MP for Leominster
+Ind Lab;Tommy Graham, Ind Lab MP for West Renfrewshire
+Ind;Dennis Canavan, Ind MP for Falkirk West
+Lab;Fiona Jones, Lab MP for Newark
+Lab;Hilary Benn, Lab MP for Leeds Central
+Con;Stephen O'Brien, Con MP for Eddisbury
+Lab;Bill Tynan, Lab MP for Hamilton South
+Lab;Neil Turner, Lab MP for Wigan
+Con;Michael Portillo, Con MP for Kensington and Chelsea
+Lab;Shaun Woodward, Lab MP for Witney
+PC;Simon Thomas, PC MP for Ceredigion
+Ind;Ken Livingstone, Ind MP for Brent East
+LDem;Sandra Gidley, LDem MP for Romsey
+Lab;David Lammy, Lab MP for Tottenham
+DUP;William McCrea, DUP MP for South Antrim
+Lab;Mark Hendrick, Lab MP for Preston
+Lab/Co-op;Adrian Bailey, Lab/Co-op MP for West Bromwich West
+Lab;John Robertson, Lab MP for Glasgow Anniesland
+Lab;Eric Joyce, Lab MP for Falkirk West

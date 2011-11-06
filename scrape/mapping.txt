@@ -1,0 +1,1 @@
+{1=>"Con", 2=>"Lab", 3=>"LDem", 4=>"Lab/Co-op", 5=>"PC", 6=>"DCWM", 7=>"UKUP", 8=>"SDLP", 9=>"UUP", 10=>"SNP", 11=>"DUP", 12=>"Ind Con", 13=>"Ind Lab", 14=>"Ind", 15=>"CWM"}

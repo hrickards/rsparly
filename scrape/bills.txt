@@ -1,0 +1,1273 @@
+0;;;2001-05-10;;;International Criminal Court Bill [Lords] - New Clause 3 - Jurisdiction of the court
+1;;;2001-05-10;;;International Criminal Court Bill [Lords] (Programme) (No. 2) - Consideration and Third Reading
+2;;;2001-05-09;;;Finance Bill
+3;;;2001-05-09;;;Finance Bill - Extension of carry back of trading losses
+4;;;2001-05-09;;;Business of the House
+5;;;2001-05-08;;;Private Security Industry Bill [Lords] - Conduct prohibited without a licence
+6;;;2001-05-02;;;City of London (Ward Elections) Bill (By Order)
+7;;;2001-05-02;;;City of London (Ward Elections) Bill (By Order)
+8;;;2001-05-02;;;City of London (Ward Elections) Bill (By Order) - Interpretation
+9;;;2001-05-01;;;Social Security Fraud Bill - New Clause 2
+10;;;2001-04-27;;;High Hedges Bill - Offences committed by bodies corporate
+11;;;2001-04-27;;;High Hedges Bill - Established hedges
+12;;;2001-04-26;;;Special Educational Needs and Disability Bill [Lords] - Needs of the individual child
+13;;;2001-04-25;;;Foreign and Security Policy
+14;;;2001-04-25;;;Rural Economy
+15;;;2001-04-25;;;Deferred Division - Road Traffic (S.I., 2001, No. 561)
+16;;;2001-04-24;;;Finance Bill - Charge and rates for 2001-02
+17;;;2001-04-24;;;Finance Bill
+18;;;2001-04-24;;;Finance Bill
+19;;;2001-04-24;;;Finance Bill - Rates of duty on hydrocarbon oil
+20;;;2001-04-23;;;Finance Bill - Interpretation of Part
+21;;;2001-04-23;;;Finance Bill
+22;;;2001-04-23;;;Finance Bill
+23;;;2001-04-23;;;Finance Bill - Charge to aggregates levy
+24;;;2001-04-10;;;International Development Bill (Programme) (No. 2)
+25;;;2001-04-09;;;Finance Bill (Programme)
+26;;;2001-04-09;;;Finance Bill
+27;;;2001-04-04;;;Election Publications Bill [Lords]
+28;;;2001-04-04;;;Election Publications Bill [Lords]
+29;;;2001-04-04;;;Election Publications Bill [Lords]
+30;;;2001-04-04;;;Elections Bill [Money] - Further postponement of elections until foot and mouth disease under control
+31;;;2001-04-04;;;Elections Bill and Election Publications Bill [Lords] (Allocation of Time)
+32;;;2001-04-04;;;Elections Bill and Election Publications Bill [Lords] (Allocation of Time) - Miscellaneous
+33;;;2001-04-04;;;Deferred Divisions - Social Security
+34;;;2001-04-04;;;Deferred Divisions - Waste Electrical and Electronic Equipment
+35;;;2001-04-04;;;Deferred Divisions - Northern Ireland
+36;;;2001-04-03;;;International Criminal Court Bill [Lords] (Programme) - Lords messages
+37;;;2001-04-03;;;Business of the House
+38;;;2001-04-02;;;Armed Forces Bill - Extension of jurisdiction
+39;;;2001-04-02;;;Armed Forces Bill (Programme) (No. 2) - Consideration of Lords Amendments and further messages from the Lords
+40;;;2001-03-30;;;Adoption Bill
+41;;;2001-03-28;;;Private Security Industry Bill [Lords] (Programme) - Lords messages
+42;;;2001-03-28;;;Deferred Divisions - Local Government
+43;;;2001-03-27;;;Social Security Fraud Bill [Lords] (Programme) - Lords messages
+44;;;2001-03-22;;;Election of a Speaker - Election of Speaker by secret ballot
+45;;;2001-03-21;;;Foot and Mouth Disease
+46;;;2001-03-21;;;Deferred Divisions - European Security and Defence Policy
+47;;;2001-03-21;;;Deferred Divisions - Weights and Measures (S.I., 2001, No. 85)
+48;;;2001-03-20;;;Special Educational Needs and Disability Bill [Lords] (Programme) - Lords messages
+49;;;2001-03-20;;;Special Educational Needs and Disability Bill [Lords]
+50;;;2001-03-19;;;Regulatory Reform Bill [Lords] (Programme) - Lords messages
+51;;;2001-03-19;;;Regulatory Reform Bill [Lords]
+52;;;2001-03-16;;;Transplant of Human Organs Bill
+53;;;2001-03-16;;;Christmas Day (Trading) Bill
+54;;;2001-03-14;;;Criminal Justice and Police Bill
+55;;;2001-03-14;;;Criminal Justice and Police Bill - Exclusion of prisoners convicted of assaulting police officers, other emergency service workers and NHS staff from power to release short-term prisoners on licence
+56;;;2001-03-14;;;Deferred Divisions - Animal By-products
+57;;;2001-03-14;;;Deferred Divisions - Business of the House
+58;;;2001-03-14;;;Deferred Divisions - Prevention and Suppression of Terrorism
+59;;;2001-03-13;;;Procedure (Remediation of Contaminated Land) - Finance Bill
+60;;;2001-03-13;;;Budget Resolutions and Economic Situation - 36 Landfill tax (rate)
+61;;;2001-03-13;;;Budget Resolutions and Economic Situation - 12 Income tax (charge and rates for 2001-02)
+62;;;2001-03-13;;;Budget Resolutions and Economic Situation - 11 Aggregates levy
+63;;;2001-03-12;;;Criminal Justice and Police Bill
+64;;;2001-03-12;;;Criminal Justice and Police Bill
+65;;;2001-03-12;;;Criminal Justice and Police Bill
+66;;;2001-03-12;;;Business of the House
+67;;;2001-03-06;;;International Development Bill [Money]
+68;;;2001-03-06;;;International Development Bill (Programme) - Lords amendments and further messages from the Lords
+69;;;2001-03-01;;;House of Commons (Removal of Clergy Disqualification) Bill - Short title, commencement and extent
+70;;;2001-03-01;;;House of Commons (Removal of Clergy Disqualification) Bill - Removal of disqualification of clergy
+71;;;2001-02-28;;;Deferred Divisions - Deferred Divisions
+72;;;2001-02-27;;;Vote on Account 2001-02
+73;;;2001-02-27;;;Hunting Bill
+74;;;2001-02-27;;;Hunting Bill
+75;;;2001-02-27;;;Hunting Bill
+76;;;2001-02-27;;;Hunting Bill
+77;;;2001-02-27;;;Hunting Bill - Hunting With Dogs: Prohibition
+78;;;2001-02-27;;;Hunting Bill - Disposal of fallen stock
+79;;;2001-02-27;;;Hunting Bill (Programme) - Lords Amendments and Messages
+80;;;2001-02-26;;;Criminal Defence Service (Advice and Assistance) Bill [Lords] (Programme) - Lords messages
+81;;;2001-02-14;;;Health and Social Care Bill
+82;;;2001-02-14;;;Health and Social Care Bill
+83;;;2001-02-14;;;Health and Social Care Bill - Independent advocacy services
+84;;;2001-02-14;;;Health and Social Care Bill - Community health councils: scheme for reform
+85;;;2001-02-14;;;Health and Social Care Bill - Patient data
+86;;;2001-02-14;;;Health and Social Care Bill (Programme)(No.2) - Consideration of Lords Amendments and further messages from the Lords
+87;;;2001-02-13;;;Capital Allowances Bill
+88;;;2001-02-13;;;Capital Allowances Bill
+89;;;2001-02-13;;;Capital Allowances Bill
+90;;;2001-02-13;;;Tobacco Advertising and Promotion Bill - Penalties
+91;;;2001-02-13;;;Tobacco Advertising and Promotion Bill - Prohibition or restriction of use of symbol, name or emblem
+92;;;2001-02-13;;;Tobacco Advertising and Promotion Bill (Programme) (No. 2) - Consideration of Lords Amendments and further messages from the Lords
+93;;;2001-02-12;;;"Shifting the Balance"
+94;;;2001-02-12;;;"Shifting the Balance"
+95;;;2001-02-12;;;Prison Conditions
+96;;;2001-02-09;;;Road Transport Bill
+97;;;2001-02-08;;;Children's Commissioner for Wales Bill (Programme) (No. 2) - Consideration of Lords Amendments and further messages from the Lords
+98;;;2001-02-08;;;Social Security Contributions (Share Options) Bill (Programme) (No. 2) - Consideration of Lords Amendments and further messages from the Lords
+99;;;2001-02-07;;;Homes Bill - Duty to persons with priority need who are not homeless intentionally
+100;;;2001-02-07;;;Homes Bill (Programme) (No. 2) - Consideration of Lords Amendments and further messages from the Lords
+101;;;2001-02-07;;;Deferred Divisions - Companies
+102;;;2001-02-06;;;Political Parties
+103;;;2001-02-06;;;House of Commons (Removal of Clergy Disqualification) Bill (Programme) - Lords amendments and further messages from the Lords
+104;;;2001-02-05;;;Care for the Elderly
+105;;;2001-02-05;;;Care for the Elderly
+106;;;2001-02-05;;;Poverty (Wales)
+107;;;2001-02-02;;;Misuse of Drugs (Amendment) Bill
+108;;;2001-02-02;;;Outworking Bill
+109;;;2001-02-01;;;Crisis in Agriculture
+110;;;2001-02-01;;;Crisis in Agriculture
+111;;;2001-02-01;;;Asylum System
+112;;;2001-02-01;;;Asylum System
+113;;;2001-01-31;;;Local Government Finance (England)
+114;;;2001-01-31;;;Police
+115;;;2001-01-31;;;Welsh Grand Committee
+116;;;2001-01-31;;;Deferred Division - Social Security
+117;;;2001-01-30;;;Vehicles (Crime) Bill - Inspection of premises: Part II
+118;;;2001-01-30;;;Vehicles (Crime) Bill (Programme) (No. 2) - Consideration of Lords Amendments and further messages from the Lords
+119;;;2001-01-29;;;Criminal Justice and Police Bill [Ways and Means]
+120;;;2001-01-29;;;Criminal Justice and Police Bill [Money]
+121;;;2001-01-29;;;Criminal Justice and Police Bill (Programme) - Lords amendments and further messages from the Lords
+122;;;2001-01-24;;;Public Health
+123;;;2001-01-24;;;Public Health
+124;;;2001-01-24;;;Manufacturing Industry
+125;;;2001-01-24;;;Manufacturing Industry
+126;;;2001-01-24;;;Deferred Divisions - European Communities
+127;;;2001-01-24;;;Deferred Divisions - Prevention and Suppression of Terrorism
+128;;;2001-01-24;;;Deferred Divisions - Local Government
+129;;;2001-01-24;;;Deferred Divisions - Legal Aid and Advice
+130;;;2001-01-24;;;Deferred Divisions - Sport
+131;;;2001-01-23;;;Delegated Legislation - Employment and Training
+132;;;2001-01-23;;;Local Government
+133;;;2001-01-23;;;Social Security Contributions (Share Options) Bill (Programme)
+134;;;2001-01-23;;;Social Security Contributions (Share Options) Bill
+135;;;2001-01-23;;;Social Security Contributions (Share Options) Bill
+136;;;2001-01-22;;;Tobacco Advertising and Promotion Bill [Money]
+137;;;2001-01-22;;;Tobacco Advertising and Promotion Bill (Programme)
+138;;;2001-01-22;;;[Relevant documents: The Second Report of the Health Committee, Session 1999-2000, on The Tobacco Industry and the Health Risks of Smoking, HC 27-I, and the Government's response thereto, Cm 4905.]
+139;;;2001-01-22;;;[Relevant documents: The Second Report of the Health Committee, Session 1999-2000, on The Tobacco Industry and the Health Risks of Smoking, HC 27-I, and the Government's response thereto, Cm 4905.]
+140;;;2001-01-18;;;Police Numbers
+141;;;2001-01-18;;;Police Numbers
+142;;;2001-01-18;;;Teacher Supply
+143;;;2001-01-18;;;Teacher Supply
+144;;;2001-01-17;;;Hunting Bill
+145;;;2001-01-17;;;Hunting Bill - Commencement (No. 4)
+146;;;2001-01-17;;;Hunting Bill - Commencement
+147;;;2001-01-17;;;Hunting Bill - Hunting with dogs: regulation
+148;;;2001-01-17;;;Hunting Bill - Hunting with dogs: regulation
+149;;;2001-01-17;;;Hunting Bill
+150;;;2001-01-17;;;Deferred Divisions - Human Rights
+151;;;2001-01-17;;;Deferred Divisions - Human Rights (Joint Committee)
+152;;;2001-01-16;;;Children's Commissioner for Wales Bill (Programme)
+153;;;2001-01-16;;;Children's Commissioner for Wales Bill
+154;;;2001-01-15;;;Capital Allowances Bill [Ways and Means]
+155;;;2001-01-15;;;Capital Allowances Bill
+156;;;2001-01-15;;;Capital Allowances Bill
+157;;;2001-01-15;;;Capital Allowances Bill
+158;;;2001-01-15;;;Tax Simplification (Joint Committee)
+159;;;2001-01-11;;;City of London (Ward Elections) Bill (By Order)
+160;;;2001-01-11;;;City of London (Ward Elections) Bill (By Order) - Statement of compatibility with the European Convention on Human Rights
+161;;;2001-01-10;;;Health and Social Care Bill [Money]
+162;;;2001-01-10;;;Health and Social Care Bill (Programme)
+163;;;2001-01-10;;;Health and Social Care Bill
+164;;;2001-01-10;;;Health and Social Care Bill
+165;;;2001-01-09;;;Armed Forces Bill (Programme)
+166;;;2001-01-09;;;Armed Forces Bill (Programme)
+167;;;2001-01-09;;;Armed Forces Bill (Programme) - Select Committee
+168;;;2001-01-09;;;Armed Forces Bill (Programme) - Select Committee
+169;;;2001-01-09;;;Armed Forces Bill
+170;;;2001-01-09;;;Armed Forces Bill
+171;;;2001-01-09;;;Armed Forces Bill
+172;;;2001-01-08;;;Electoral Commission
+173;;;2001-01-08;;;Homes Bill (Programme) - Standing Committee
+174;;;2001-01-08;;;Homes Bill (Programme)
+175;;;2001-01-08;;;Homes Bill
+176;;;2001-01-08;;;Homes Bill
+177;;;2000-12-20;;;Hunting Bill [Money]
+178;;;2000-12-20;;;Hunting Bill (Programme)
+179;;;2000-12-20;;;Hunting Bill (Programme)
+180;;;2000-12-20;;;Hunting Bill
+181;;;2000-12-20;;;Deferred Divisions - Broadcasting
+182;;;2000-12-20;;;Deferred Divisions - Animals
+183;;;2000-12-20;;;Deferred Divisions - Section 5 of the European Communities (Amendment) Act 1993
+184;;;2000-12-20;;;Deferred Divisions - Family Law
+185;;;2000-12-20;;;Deferred Divisions - Family Law
+186;;;2000-12-20;;;Deferred Divisions - Family Law
+187;;;2000-12-20;;;Deferred Divisions - Family Law
+188;;;2000-12-20;;;Deferred Divisions - Family Law
+189;;;2000-12-20;;;Deferred Divisions - Tax Simplification (Joint Committee)
+190;;;2000-12-20;;;Deferred Divisions - Deregulation
+191;;;2000-12-20;;;Deferred Divisions - National Lottery
+192;;;2000-12-19;;;Supplementary Estimates, 2000-01 - Consolidated Fund Bill
+193;;;2000-12-19;;;Supplementary Estimates, 2000-01
+194;;;2000-12-19;;;Urban Regeneration
+195;;;2000-12-19;;;Human Fertilisation and Embryology
+196;;;2000-12-18;;;Vehicles (Crime) Bill [Ways and Means]
+197;;;2000-12-18;;;Vehicles (Crime) Bill [Money]
+198;;;2000-12-18;;;Vehicle Crimes Bill (Programme)
+199;;;2000-12-13;;;The Economy
+200;;;2000-12-13;;;The Economy
+201;;;2000-12-13;;;The Economy
+202;;;2000-12-13;;;Deferred Divisions - Section 5 of the European Communities (Amendment) Act 1993
+203;;;2000-12-13;;;Deferred Divisions - Sittings of the House
+204;;;2000-12-13;;;Deferred Divisions - Adjournment (Christmas)
+205;;;2000-12-13;;;Deferred Divisions - Fisheries: Total Allowable Catches and Quotas 2001
+206;;;2000-12-12;;;Home Affairs and Inner Cities
+207;;;2000-11-30;;;Criminal Justice and Court Services Bill - Local Boards
+208;;;2000-11-30;;;Disqualifications Bill - Amendment of section 1(1)(e) of the Disqualification Acts
+209;;;2000-11-29;;;Political Parties, Elections and Referendums Bill
+210;;;2000-11-29;;;Political Parties, Elections and Referendums Bill - After Clause 64
+211;;;2000-11-29;;;Political Parties, Elections and Referendums Bill - After clause 20
+212;;;2000-11-29;;;Political Parties, Elections and Referendums Bill and Disqualifications Bill (Allocation of Time) - The allotted day12. In this Order, "allotted day" means any day on which the Disqualifications Bill is put down on the main business as first Government Order of the Day.
+213;;;2000-11-29;;;Rewarding Democracy Commission
+214;;;2000-11-28;;;Transport Bill
+215;;;2000-11-28;;;Transport Bill
+216;;;2000-11-28;;;Countryside and Rights of Ways Bill - After clause 19
+217;;;2000-11-27;;;Freedom of Information Bill
+218;;;2000-11-27;;;Freedom of Information Bill - Amendment of schedule 1
+219;;;2000-11-27;;;Freedom of Information Bill - New Clause
+220;;;2000-11-27;;;Freedom of Information Bill and Countryside and Rights of Way Bill (Allocation Of Time) - Interpretation
+221;;;2000-11-22;;;Business of the House
+222;;;2000-11-22;;;Business of the House
+223;;;2000-11-22;;;Fur Farming (Prohibition) Bill - Compensation for existing businesses
+224;;;2000-11-22;;;Honours and Decorations
+225;;;2000-11-21;;;Delegated Legislation - International Immunities and Privileges
+226;;;2000-11-21;;;Police (Northern Ireland) Bill
+227;;;2000-11-21;;;Police (Northern Ireland) Bill - Discrimination in appointments
+228;;;2000-11-21;;;Police (Northern Ireland) Bill - The Board's policing plan
+229;;;2000-11-21;;;Police (Northern Ireland) Bill - The Secretary of State's long term policing objectives
+230;;;2000-11-21;;;Police (Northern Ireland) Bill (Supplemental Allocation of Time) - Miscellaneous
+231;;;2000-11-20;;;Immigration Appeals
+232;;;2000-11-20;;;Sittings in Westminster Hall
+233;;;2000-11-20;;;Sittings in Westminster Hall
+234;;;2000-11-20;;;House of Commons Modernisation
+235;;;2000-11-16;;;Insolvency Bill [Lords] - Insolvent estates of deceased persons
+236;;;2000-11-16;;;Insolvency Bill [Lords] - Section 309(1) of the Insolvency Act 1986 to apply to nominees
+237;;;2000-11-16;;;Insolvency Bill [Lords] - Disqualification orders: unfitness of director
+238;;;2000-11-15;;;Transport Bill - After clause 61
+239;;;2000-11-15;;;Transport Bill - Transfer schemes made by CAA
+240;;;2000-11-15;;;Genetically Modified Food and Producer Liability (No. 2)
+241;;;2000-11-14;;;Criminal Justice and Court Services Bill - Short-term prisoners: release subject to curfew conditions
+242;;;2000-11-14;;;Criminal Justice and Court Services Bill - Definitions
+243;;;2000-11-14;;;Criminal Justice and Court Services Bill - Functions of inspectorate
+244;;;2000-11-14;;;Parliamentary Oath (Amendment)
+245;;;2000-11-13;;;Millennium Dome
+246;;;2000-11-13;;;Millennium Dome
+247;;;2000-11-13;;;London Underground (Public-Private Partnership)
+248;;;2000-11-13;;;London Underground (Public-Private Partnership)
+249;;;2000-11-07;;;Programming of Bills - I. Programme orders: supplementary provisions
+250;;;2000-11-07;;;Programming of Bills
+251;;;2000-11-07;;;Programming of Bills - I. Programme orders: supplementary provisions
+252;;;2000-11-07;;;Business of the House
+253;;;2000-11-07;;;Business of the House
+254;;;2000-11-06;;;Privatisation
+255;;;2000-11-06;;;Privatisation
+256;;;2000-11-06;;;Pensions and Pensioners
+257;;;2000-11-06;;;Pensions and Pensioners
+258;;;2000-10-31;;;As amended in the Standing Committee, considered. - Exclusion from benefits
+259;;;2000-10-31;;;Stem Cell Research
+260;;;2000-10-25;;;Teachers (Supply and Recruitment)
+261;;;2000-10-25;;;Teachers (Supply and Recruitment)
+262;;;2000-10-25;;;Fuel Protests
+263;;;2000-10-25;;;Fuel Protests
+264;;;2000-10-23;;;Election of Speaker
+265;;;2000-10-23;;;Election of Speaker
+266;;;2000-10-23;;;Election of Speaker
+267;;;2000-10-23;;;Election of Speaker
+268;;;2000-10-23;;;Election of Speaker
+269;;;2000-10-23;;;Election of Speaker
+270;;;2000-10-23;;;Election of Speaker
+271;;;2000-10-23;;;Election of Speaker
+272;;;2000-10-23;;;Election of Speaker
+273;;;2000-10-23;;;Election of Speaker
+274;;;2000-10-23;;;Election of Speaker
+275;;;2000-10-23;;;Election of Speaker
+276;;;2000-07-27;;;Postal Services Bill - Extension of existing powers relating to the Post Office
+277;;;2000-07-27;;;Utilities Bill - Licence enforcement
+278;;;2000-07-27;;;Utilities Bill - Objectives and duties under 1986 Act
+279;;;2000-07-27;;;Football Disorder Bill (Supplemental Allocation of Time) - Miscellaneous
+280;;;2000-07-26;;;Census (Amendment) Bill [Lords]
+281;;;2000-07-26;;;Census (Amendment) Bill [Lords] - Particulars in respect of religion may be required
+282;;;2000-07-25;;;Local Government Bill - Prohibition on promotion of homosexuality: bullying
+283;;;2000-07-25;;;Criminal Justice (Mode of Trial) (No. 2) Bill
+284;;;2000-07-25;;;Criminal Justice (Mode of Trial) (No. 2) Bill (Allocation of Time)
+285;;;2000-07-25;;;Criminal Justice (Mode of Trial) (No. 2) Bill (Allocation of Time) - Supplemental orders
+286;;;2000-07-25;;;Delegated Legislation - Data Protection
+287;;;2000-07-25;;;Delegated Legislation - Local Government Finance
+288;;;2000-07-25;;;Delegated Legislation - Local Government Finance
+289;;;2000-07-25;;;Delegated Legislation - Local Government Finance
+290;;;2000-07-25;;;European Community Documents - A General Framework for Equal Treatment in Employment and Occupation
+291;;;2000-07-24;;;Government Resources and Accounts Bill - Amendments and repeals
+292;;;2000-07-24;;;Government Resources and Accounts Bill - Comptroller and Auditor General: access to information
+293;;;2000-07-24;;;Child Support, Pensions and Social Security Bill - Preservation of rights in respect of additional pensions
+294;;;2000-07-19;;;Finance Bill - Repeals
+295;;;2000-07-19;;;Finance Bill - Controlled foreign companies.
+296;;;2000-07-19;;;Finance Bill - Further provisions about share options
+297;;;2000-07-18;;;Finance Bill - Climate change levy
+298;;;2000-07-18;;;Finance Bill - Married couples allowances
+299;;;2000-07-18;;;Finance Bill - Rates of duty, etc.: reference to Retail Price Index
+300;;;2000-07-17;;;Football (Disorder) Bill
+301;;;2000-07-17;;;Football (Disorder) Bill - Amendments of the Football Spectators Act 1989
+302;;;2000-07-17;;;Football (Disorder) Bill
+303;;;2000-07-17;;;Football (Disorder) Bill - Commencement and duration
+304;;;2000-07-17;;;Football (Disorder) Bill - Football matches: prevention of violence or disorder
+305;;;2000-07-17;;;Football (Disorder) Bill (Allocation of Time) - Supplemental orders
+306;;;2000-07-13;;;Football (Disorder) Bill
+307;;;2000-07-13;;;Parliament and the Executive
+308;;;2000-07-13;;;Parliament and the Executive
+309;;;2000-07-12;;;Care Standards Bill [Lords] - Statement of national minimum standards
+310;;;2000-07-12;;;Age Equality Commission
+311;;;2000-07-11;;;Delegated Legislation - Education
+312;;;2000-07-11;;;Delegated Legislation - Local Government Finance (England)
+313;;;2000-07-11;;;Delegated Legislation - Environmental Protection
+314;;;2000-07-11;;;Delegated Legislation - Constitutional Law
+315;;;2000-07-11;;;Delegated Legislation - Constitutional Law
+316;;;2000-07-11;;;Police (Northern Ireland) Bill
+317;;;2000-07-11;;;Police (Northern Ireland) Bill
+318;;;2000-07-11;;;Police (Northern Ireland) Bill - Targets for recruitment
+319;;;2000-07-11;;;Police (Northern Ireland) Bill - District policing partnership sub-groups for Belfast
+320;;;2000-07-11;;;Police (Northern Ireland) Bill (Allocation of Time) - Supplemental Orders
+321;;;2000-07-05;;;Local Government Bill [Lords] - Prohibition on promotion of homosexuality: bullying
+322;;;2000-07-04;;;Local Government Bill [Lords] - Proportional representation for local elections in England and Wales
+323;;;2000-07-04;;;Local Government Bill [Lords] - Access to information; background papers
+324;;;2000-07-04;;;Local Government Bill [Lords] - Application for locally developed arrangements
+325;;;2000-07-04;;;Local Government Bill [Lords] - Local authority to decide whether to introduce executive arrangements
+326;;;2000-07-03;;;Neill Committee (Ministers and Special Advisers)
+327;;;2000-07-03;;;Neill Committee (Ministers and Special Advisers)
+328;;;2000-07-03;;;Prisoners (Early Release)
+329;;;2000-07-03;;;Prisoners (Early Release)
+330;;;2000-06-29;;;National Health Service
+331;;;2000-06-29;;;National Health Service
+332;;;2000-06-28;;;House of Commons (Reserved Matters)
+333;;;2000-06-27;;;Learning and Skills Bill [Lords] - Provision of Financial Resources
+334;;;2000-06-27;;;Learning and Skills Bill [Lords] - Sex education
+335;;;2000-06-27;;;Learning and Skills Bill [Lords] - Grammar schools: retention of selective admission arrangements
+336;;;2000-06-20;;;Census (Amendment) Bill [Lords]
+337;;;2000-06-20;;;Government Planning Policy
+338;;;2000-06-20;;;Government Planning Policy
+339;;;2000-06-20;;;Football Hooliganism
+340;;;2000-06-14;;;Countryside and Rights of Way Bill - Repeals
+341;;;2000-06-14;;;Countryside and Rights of Way Bill - Local sites
+342;;;2000-06-14;;;Countryside and Rights of Way Bill - Definition of legally relevant objection
+343;;;2000-06-14;;;Countryside and Rights of Way Bill - Driving of Mechanically Propelled Vehicles Elsewhere than on Roads
+344;;;2000-06-13;;;Countryside and Rights of Way Bill - Exclusion or restriction at discretion of owner and others
+345;;;2000-06-13;;;Countryside and Rights of Way Bill - Effect of right of access on rights and liabilities of owners
+346;;;2000-06-13;;;Countryside and Rights of Way Bill - Rights of public in relation to access land
+347;;;2000-06-12;;;Criminal Justice and Court Services Bill - Approved bail hostels, etc.
+348;;;2000-06-12;;;Criminal Justice and Court Services Bill - Exclusion of assault on police from power to release short-term prisoners on licence
+349;;;2000-06-12;;;Criminal Justice and Court Services Bill - Sex Offenders Act 1997: Notification Period
+350;;;2000-06-08;;;Genetically Modified Crops
+351;;;2000-06-08;;;Genetically Modified Crops
+352;;;2000-06-08;;;Pensions
+353;;;2000-06-07;;;Britain's Strategic Interests
+354;;;2000-06-07;;;Britain's Strategic Interests
+355;;;2000-06-07;;;Equal Opportunities in Britain
+356;;;2000-06-06;;;Police (Northern Ireland) Bill
+357;;;2000-06-06;;;Police (Northern Ireland) Bill
+358;;;2000-06-05;;;Financial Services and Markets Bill - EEA Passport Rights
+359;;;2000-06-05;;;Financial Services and Markets Bill - Interpretation
+360;;;2000-06-05;;;Financial Services and Markets Bill
+361;;;2000-06-05;;;Financial Services and Markets Bill - New Clause
+362;;;2000-06-05;;;Financial Services and Markets Bill - Power to impose penalties in cases of market abuse
+363;;;2000-06-05;;;Financial Services and Markets Bill - Determination of applications
+364;;;2000-06-05;;;Financial Services and Markets Bill (Supplemental Allocation of Time) - Miscellaneous
+365;;;2000-05-24;;;Powers of Criminal Courts (Sentencing) Bill [Lords]
+366;;;2000-05-24;;;Transport
+367;;;2000-05-24;;;Transport
+368;;;2000-05-24;;;Crime
+369;;;2000-05-22;;;Royal Parks (Trading) Bill - After Clause 3
+370;;;2000-05-22;;;Royal Parks (Trading) Bill and Television Licences (Disclosure of Information) Bill (Allocation of Time) - Supplemental orders
+371;;;2000-05-22;;;Sea Fishing Grants (Charges) Bill
+372;;;2000-05-22;;;Nuclear Safeguards Bill [Lords] - Rights of searching persons
+373;;;2000-05-22;;;Nuclear Safeguards Bill [Lords] and Sea Fishing Grants (Charges) Bill (Allocation of Time) - Supplemental Orders
+374;;;2000-05-18;;;Care Standards Bill [Lords]
+375;;;2000-05-17;;;Armed Forces (Minimum Age of Recruitment)
+376;;;2000-05-16;;;Northern Ireland (Flags)
+377;;;2000-05-16;;;Future of the Teaching Profession
+378;;;2000-05-16;;;Future of the Teaching Profession
+379;;;2000-05-16;;;UK Manufacturing and Enterprise
+380;;;2000-05-11;;;Common Agricultural Policy
+381;;;2000-05-10;;;Transport Bill - Repeals and Revocations
+382;;;2000-05-10;;;Transport Bill - Road traffic reduction strategy
+383;;;2000-05-10;;;Transport Bill - Purposes
+384;;;2000-05-10;;;Transport Bill - Use of receipts from licensing schemes
+385;;;2000-05-10;;;Transport Bill - Use of receipts from charging schemes
+386;;;2000-05-09;;;Transport Bill - Air quality
+387;;;2000-05-09;;;Transport Bill - Orders for possession of aerodromes, etc.
+388;;;2000-05-09;;;Transport Bill - Parliamentary approval of transfer scheme
+389;;;2000-05-09;;;Transport Bill - Transfer to be to not for profit company
+390;;;2000-05-09;;;Transport Bill - Transfer to be to company owned by Crown
+391;;;2000-05-08;;;Regulation of Investigatory Powers Bill - Persons entitled to grant authorisations under
+392;;;2000-05-08;;;Regulation of Investigatory Powers Bill - Failure to Comply with a Notice to Disclose a Key to Protected Information
+393;;;2000-05-08;;;Regulation of Investigatory Powers Bill - Technical Approval Board
+394;;;2000-05-08;;;Regulation of Investigatory Powers Bill - Offences
+395;;;2000-05-03;;;Finance Bill - Rates: conveyance or transfer on sale
+396;;;2000-05-03;;;Finance Bill - Double Taxation Relief
+397;;;2000-05-03;;;Finance Bill - Provision of services through intermediary
+398;;;2000-05-03;;;Finance Bill - Charge and rates for 2000-01
+399;;;2000-05-02;;;Finance Bill - Climate Change Levy
+400;;;2000-05-02;;;Finance Bill - Rate of duty on beer
+401;;;2000-04-19;;;Utilities Bill - Obligation in connection with electricity from renewable sources
+402;;;2000-04-19;;;Utilities Bill - General duties of electricity distributors
+403;;;2000-04-19;;;Utilities Bill
+404;;;2000-04-17;;;European Community Documents - White Paper on Food Safety
+405;;;2000-04-17;;;Finance Bill
+406;;;2000-04-14;;;Medical Treatment (Prevention of Euthanasia) Bill - Consent of the Director of Public Prosecutions
+407;;;2000-04-12;;;Delegated Legislation - Immigration
+408;;;2000-04-12;;;Asylum Seekers
+409;;;2000-04-12;;;Asylum Seekers
+410;;;2000-04-12;;;Sub-post Offices
+411;;;2000-04-12;;;Sub-post Offices
+412;;;2000-04-11;;;Standing Committee on Regional Affairs
+413;;;2000-04-11;;;Standing Committee on Regional Affairs
+414;;;2000-04-11;;;Local Government Bill [Lords]
+415;;;2000-04-11;;;Organ Transplants (Presumed Consent)
+416;;;2000-04-10;;;Nuclear Safeguards Bill [Lords]
+417;;;2000-04-10;;;Nuclear Safeguards Bill [Lords]
+418;;;2000-04-10;;;Nuclear Safeguards Bill [Lords]
+419;;;2000-04-07;;;Government Powers (Limitations) Bill
+420;;;2000-04-06;;;Patten Report
+421;;;2000-04-06;;;Armed Forces Discipline Bill [Lords] - Right to elect court-martial trial
+422;;;2000-04-05;;;Freedom of Information Bill - Exception from duty to comply with decision notice or enforcement notice
+423;;;2000-04-05;;;Freedom of Information Bill - Power to confer additional exemptions by order
+424;;;2000-04-05;;;Freedom of Information Bill - Prejudice to effective conduct of public affairs
+425;;;2000-04-05;;;Freedom of Information Bill - Formulation of government policy, etc.
+426;;;2000-04-05;;;Freedom of Information Bill - Investigations and proceedings conducted by public authorities
+427;;;2000-04-05;;;Freedom of Information Bill - Defence
+428;;;2000-04-05;;;Freedom of Information Bill - The Information Commissioner and the Information Tribunal
+429;;;2000-04-05;;;Freedom of Information Bill - Discretionary disclosures
+430;;;2000-04-04;;;Freedom of Information Bill - Time for compliance with request
+431;;;2000-04-04;;;Freedom of Information Bill - Public authorities to which Act has limited application.
+432;;;2000-04-04;;;Freedom of Information Bill
+433;;;2000-04-03;;;Child Support, Pensions and Social Security Bill - War widows' pensions--entitlement
+434;;;2000-04-03;;;Child Support, Pensions and Social Security Bill - Annual increase in basic retirement pension
+435;;;2000-04-03;;;Child Support, Pensions and Social Security Bill - Concurrency of pensions, rebates and extra monies
+436;;;2000-04-03;;;Child Support, Pensions and Social Security Bill - Rate of Introduction of State Second Pension
+437;;;2000-04-03;;;Child Support, Pensions and Social Security Bill - Age additions
+438;;;2000-04-03;;;Child Support, Pensions and Social Security Bill - Widows'/widowers' SERPS entitlements
+439;;;2000-04-03;;;Child Support, Pensions and Social Security Bill - Contributions in Respect of Benefits in Kind: Great Britain
+440;;;2000-03-30;;;Learning and Skills Bill [Lords]
+441;;;2000-03-29;;;Child Support, Pensions and Social Security Bill - Recovery of housing benefit
+442;;;2000-03-29;;;Child Support, Pensions and Social Security Bill
+443;;;2000-03-29;;;Child Support, Pensions and Social Security Bill - Substituted Part I of Schedule 1 to the Child Support Act 1991
+444;;;2000-03-27;;;Delegated Legislation - Local Government Finance
+445;;;2000-03-27;;;"Table - 62. Landfill Tax (Rate)
+446;;;2000-03-27;;;"Table - 46. Use of Sterling and Other Currencies
+447;;;2000-03-27;;;"Table - 43. Chargeable Gains (Companies)
+448;;;2000-03-27;;;"Table - 21. Income tax (charge and rates for 2000-01)
+449;;;2000-03-27;;;"Table - 20. Climate change levy
+450;;;2000-03-27;;;"Table - 12. Amusement machine licence duty (rates of duty)
+451;;;2000-03-27;;;"Table
+452;;;2000-03-27;;;Budget Resolutions and Economic Situation - 5. Hydrocarbon oil (rates of duty and rebate)
+453;;;2000-03-27;;;Budget Resolutions and Economic Situation - 2. Beer (rate of duty)
+454;;;2000-03-20;;;Delegated Legislation - Access to Justice
+455;;;2000-03-20;;;Delegated Legislation - Legal Services Commission
+456;;;2000-03-20;;;Countryside and Rights of Way Bill
+457;;;2000-03-16;;;Future of Rover
+458;;;2000-03-16;;;Mozambique
+459;;;2000-03-15;;;Terrorism Bill - Repeals
+460;;;2000-03-15;;;Terrorism Bill - Possession for terrorist purposes.
+461;;;2000-03-15;;;Terrorism Bill
+462;;;2000-03-15;;;Terrorism Bill
+463;;;2000-03-15;;;Terrorism Bill - Terrorism: interpretation
+464;;;2000-03-15;;;Terrorism Bill - Expiry and revival (No. 2)
+465;;;2000-03-15;;;Terrorism Bill - Detention of terrorists
+466;;;2000-03-14;;;Political Parties, Elections and Referendums Bill - Orders regulating conduct of referendums
+467;;;2000-03-14;;;Political Parties, Elections and Referendums Bill - Special restrictions on referendum expenses by permitted participants
+468;;;2000-03-14;;;Political Parties, Elections and Referendums Bill - Special provision for Northern Ireland parties
+469;;;2000-03-14;;;Supplementary Vote on Account 2000-01
+470;;;2000-03-13;;;Political Parties, Elections and Referendums Bill - Education about electoral and democratic systems
+471;;;2000-03-13;;;Political Parties, Elections and Referendums Bill - Tax relief for donations to political parties
+472;;;2000-03-10;;;Warm Homes and Energy Conservation Bill
+473;;;2000-03-08;;;Representation of the People Bill (Supplemental Allocation of Time) - Miscellaneous
+474;;;2000-03-08;;;Small Business
+475;;;2000-03-08;;;Small Business
+476;;;2000-03-08;;;The National Health Service
+477;;;2000-03-07;;;Criminal Justice (Mode of Trial) (No. 2) Bill
+478;;;2000-03-07;;;Criminal Justice (Mode of Trial) (No. 2) Bill
+479;;;2000-03-07;;;Criminal Justice (Mode of Trial) (No. 2) Bill
+480;;;2000-03-01;;;Tax Cuts and Public Services
+481;;;2000-02-29;;;Government Resources and Accounts Bill - Public service agencies' accounts: scrutiny
+482;;;2000-02-29;;;Government Resources and Accounts Bill - Independent body
+483;;;2000-02-28;;;Sexual Offences (Amendment) Bill
+484;;;2000-02-28;;;Defence White Paper
+485;;;2000-02-28;;;Defence White Paper
+486;;;2000-02-21;;;Social Security
+487;;;2000-02-21;;;Millennium Dome
+488;;;2000-02-21;;;Millennium Dome
+489;;;2000-02-21;;;Education
+490;;;2000-02-17;;;Armed Forces Discipline Bill [Lords]
+491;;;2000-02-17;;;Armed Forces Discipline Bill [Lords]
+492;;;2000-02-16;;;Political Parties, Elections and Referendums Bill - New Clause 2
+493;;;2000-02-16;;;Political Parties, Elections and Referendums Bill - Special restrictions on referendum expenses by permitted participants
+494;;;2000-02-16;;;Political Parties, Elections and Referendums Bill - Permitted Participants
+495;;;2000-02-16;;;Political Parties, Elections and Referendums Bill - Date of poll
+496;;;2000-02-15;;;London Government
+497;;;2000-02-15;;;London Government
+498;;;2000-02-15;;;Postal Services Bill
+499;;;2000-02-15;;;Postal Services Bill
+500;;;2000-02-14;;;Political Parties, Elections and Referendums Bill - Education about electoral and democratic systems
+501;;;2000-02-14;;;Political Parties, Elections and Referendums Bill - The Speaker's Committee
+502;;;2000-02-10;;;Sexual Offences (Amendment) Bill
+503;;;2000-02-09;;;Financial Services and Markets Bill - Repeals
+504;;;2000-02-09;;;Financial Services and Markets Bill - Restrictions on financial promotion
+505;;;2000-02-09;;;Financial Services and Markets Bill - The Authority's general duties
+506;;;2000-02-08;;;Northern Ireland Bill
+507;;;2000-02-08;;;Northern Ireland Bill - Ending suspension
+508;;;2000-02-08;;;Northern Ireland Bill
+509;;;2000-02-07;;;Social Security
+510;;;2000-02-03;;;Local Government Finance
+511;;;2000-02-03;;;Police
+512;;;2000-02-02;;;House of Commons Commission
+513;;;2000-02-02;;;Development Policy
+514;;;2000-02-02;;;Asylum and Immigration
+515;;;2000-02-02;;;Asylum and Immigration
+516;;;2000-02-01;;;Financial Services and Markets Bill - Reviews
+517;;;2000-02-01;;;Financial Services and Markets Bill - Judicial review
+518;;;2000-01-31;;;Utilities Bill
+519;;;2000-01-28;;;Medical Treatment (Prevention of Euthanasia) Bill
+520;;;2000-01-27;;;Financial Services and Markets Bill - Reports by Director General of Fair Trading
+521;;;2000-01-27;;;Financial Services and Markets Bill - The Financial Services Authority
+522;;;2000-01-25;;;Disqualifications Bill
+523;;;2000-01-25;;;Disqualifications Bill - Salaries
+524;;;2000-01-25;;;Disqualifications Bill - Disqualification from ministerial office in United Kingdom
+525;;;2000-01-25;;;Disqualifications Bill - Consequential repeal
+526;;;2000-01-25;;;Disqualifications Bill
+527;;;2000-01-25;;;Disqualifications Bill
+528;;;2000-01-25;;;Disqualifications Bill - Disqualification for Ministerial Office in Northern Ireland
+529;;;2000-01-25;;;Disqualifications Bill
+530;;;2000-01-25;;;Disqualifications Bill
+531;;;2000-01-25;;;Disqualifications Bill
+532;;;2000-01-25;;;Disqualifications Bill
+533;;;2000-01-25;;;Disqualifications Bill
+534;;;2000-01-25;;;Disqualifications Bill
+535;;;2000-01-25;;;Disqualifications Bill - Amendment of section 1(1)(e) of the Disqualification Acts
+536;;;2000-01-25;;;Parental Authority
+537;;;2000-01-24;;;City of London (Ward Elections) Bill
+538;;;2000-01-24;;;City of London (Ward Elections) Bill - Statement of compatibility with the European Convention on Human Rights
+539;;;2000-01-24;;;Disqualifications Bill
+540;;;2000-01-18;;;Line of Route
+541;;;2000-01-18;;;Government Running Costs
+542;;;2000-01-18;;;Government Running Costs
+543;;;2000-01-18;;;Health Care
+544;;;2000-01-17;;;Post Office Services
+545;;;2000-01-17;;;Post Office Services
+546;;;2000-01-17;;;Pensioners
+547;;;2000-01-13;;;Representation of the People Bill - Restriction on supply of information contained in register
+548;;;2000-01-11;;;Child Support, Pensions and Social Security Bill
+549;;;2000-01-11;;;Child Support, Pensions and Social Security Bill
+550;;;1999-12-21;;;Public Expenditure
+551;;;1999-12-20;;;Transport Bill
+552;;;1999-12-20;;;Transport Bill
+553;;;1999-12-15;;;Representation of the People Bill - [Mr. Michael Lord in the Chair]
+554;;;1999-12-14;;;Terrorism Bill
+555;;;1999-12-13;;;Fisheries
+556;;;1999-12-13;;;Fisheries
+557;;;1999-12-08;;;Post Office
+558;;;1999-12-08;;;Tube Investment
+559;;;1999-12-08;;;Tube Investment
+560;;;1999-12-07;;;Freedom of Information Bill
+561;;;1999-12-07;;;Freedom of Information Bill
+562;;;1999-12-06;;;Delegated Legislation - Terms and Conditions of Employment
+563;;;1999-12-06;;;Delegated Legislation - Agriculture
+564;;;1999-12-06;;;Government Resources and Accounts Bill [Money]
+565;;;1999-12-06;;;Government Resources and Accounts Bill
+566;;;1999-11-30;;;Northern Ireland
+567;;;1999-11-30;;;Representation of the People Bill
+568;;;1999-11-29;;;Electronic Communications Bill
+569;;;1999-11-24;;;The Economy
+570;;;1999-11-24;;;The Economy
+571;;;1999-11-24;;;The Economy
+572;;;1999-11-23;;;Home Affairs, Education and Employment
+573;;;1999-11-11;;;Business of the House
+574;;;1999-11-11;;;Business of the House
+575;;;1999-11-10;;;House of Lords Bill
+576;;;1999-11-10;;;House of Lords Bill - New Clause
+577;;;1999-11-10;;;House of Lords Bill - New Clause
+578;;;1999-11-10;;;House of Lords Bill - New Clause
+579;;;1999-11-09;;;Immigration and Asylum Bill - New Clause
+580;;;1999-11-09;;;Immigration and Asylum Bill - New Clause
+581;;;1999-11-09;;;Immigration and Asylum Bill (Supplemental Allocation of Time) - Miscellaneous
+582;;;1999-11-09;;;Welfare Reform and Pensions Bill
+583;;;1999-11-09;;;Welfare Reform and Pensions Bill - Incapacity benefit: reduction for pension payments
+584;;;1999-11-09;;;Welfare Reform and Pensions Bill - Incapacity benefit: restriction to recent contributors
+585;;;1999-11-09;;;Welfare Reform and Pensions Bill - New Clause
+586;;;1999-11-08;;;Food Standards Bill
+587;;;1999-11-08;;;Food Standards Bill
+588;;;1999-11-08;;;Food Standards Bill - Directions relating to breach of duty or to international obligations
+589;;;1999-11-08;;;Delegated Legislation - Legal Services
+590;;;1999-11-08;;;Delegated Legislation - Northern Ireland
+591;;;1999-11-08;;;Delegated Legislation - Terms and Conditions of Employment
+592;;;1999-11-08;;;Delegated Legislation - Taxes
+593;;;1999-11-08;;;Greater London Authority Bill
+594;;;1999-11-08;;;Greater London Authority Bill
+595;;;1999-11-08;;;Greater London Authority Bill
+596;;;1999-11-08;;;Greater London Authority Bill - New Clause
+597;;;1999-11-08;;;Greater London Authority Bill - New Clause
+598;;;1999-11-08;;;Greater London Authority Bill - New Clause
+599;;;1999-11-08;;;Greater London Authority Bill - New Clause
+600;;;1999-11-08;;;Greater London Authority Bill - Control of subsidiaries
+601;;;1999-11-08;;;Table - Miscellaneous
+602;;;1999-11-04;;;Greater London Authority Bill - Time of ordinary elections
+603;;;1999-11-04;;;Greater London Authority Bill - Membership of the Authority and the Assembly
+604;;;1999-11-03;;;Welfare Reform and Pensions Bill
+605;;;1999-11-03;;;Welfare Reform and Pensions Bill
+606;;;1999-11-03;;;Welfare Reform and Pensions Bill - Extent
+607;;;1999-11-03;;;Welfare Reform and Pensions Bill - Earnings of workers supplied by service companies etc: Northern Ireland
+608;;;1999-11-03;;;Welfare Reform and Pensions Bill
+609;;;1999-11-03;;;Welfare Reform and Pensions Bill - Earnings of workers supplied by service companies etc.
+610;;;1999-11-03;;;Welfare Reform and Pensions Bill - New allowances for bereaved spouses
+611;;;1999-11-03;;;Welfare Reform and Pensions Bill - New Clause
+612;;;1999-11-03;;;Welfare Reform and Pensions Bill
+613;;;1999-11-03;;;Welfare Reform and Pensions Bill
+614;;;1999-11-03;;;Welfare Reform and Pensions Bill - Incapacity benefit: restriction to recent contributors
+615;;;1999-11-02;;;City of London (Ward Elections) Bill
+616;;;1999-11-02;;;Planning
+617;;;1999-11-01;;;Record Copies of Acts
+618;;;1999-10-26;;;National Health Service
+619;;;1999-10-26;;;National Health Service
+620;;;1999-10-26;;;Home Office Issues
+621;;;1999-10-20;;;Transport Safety
+622;;;1999-10-20;;;Food and Farming
+623;;;1999-07-26;;;Employment Relations Bill - Collective Bargaining: Recognition
+624;;;1999-07-26;;;Business of the House
+625;;;1999-07-22;;;Food Standards Agency Bill and Employment Relations Bill (Allocation of Time) - Interpretation
+626;;;1999-07-21;;;Delegated Legislation - Cinemas and Films
+627;;;1999-07-21;;;Employment Relations Bill - New Clause
+628;;;1999-07-21;;;Employment Relations Bill - Collective agreements: detriment and dismissal
+629;;;1999-07-21;;;Access to Justice Bill [Lords]
+630;;;1999-07-21;;;Access to Justice Bill [Lords]
+631;;;1999-07-20;;;Deregulation - Casinos
+632;;;1999-07-20;;;Deregulation - Millennium Licensing
+633;;;1999-07-20;;;European Community Documents - Proposal to Extend the Working Time Directive to Excluded Sectors
+634;;;1999-07-20;;;Health Care
+635;;;1999-07-20;;;Health Care
+636;;;1999-07-19;;;Delegated Legislation - International Immunities and Privileges
+637;;;1999-07-19;;;Delegated Legislation - International Immunities and Privileges
+638;;;1999-07-19;;;Delegated Legislation - Northern Ireland
+639;;;1999-07-19;;;Delegated Legislation - Northern Ireland
+640;;;1999-07-19;;;Delegated Legislation - Northern Ireland
+641;;;1999-07-19;;;Delegated Legislation - Civil Aviation
+642;;;1999-07-19;;;Delegated Legislation - International Immunities and Privileges
+643;;;1999-07-19;;;Business of the House (Railways Bill)
+644;;;1999-07-19;;;Business of the House (Railways Bill)
+645;;;1999-07-19;;;Railways Bill
+646;;;1999-07-19;;;Railways Bill
+647;;;1999-07-15;;;Post Office
+648;;;1999-07-15;;;Post Office
+649;;;1999-07-15;;;Motorists
+650;;;1999-07-14;;;Commonwealth Development Corporation Bill - Interpretation: companies and shares.
+651;;;1999-07-14;;;Commonwealth Development Corporation Bill - Sale of shares or other securities
+652;;;1999-07-14;;;City of London (Ward Elections) Bill
+653;;;1999-07-14;;;City of London (Ward Elections) Bill
+654;;;1999-07-14;;;City of London (Ward Elections) Bill - Interpretation
+655;;;1999-07-14;;;Commonwealth Development Corporation Bill [Lords] - Investment policy
+656;;;1999-07-14;;;Pollution Prevention and Control Bill [Lords] - Particular Purposes for which Provision may be made under Section 2
+657;;;1999-07-13;;;Northern Ireland Bill
+658;;;1999-07-13;;;Northern Ireland Bill
+659;;;1999-07-13;;;Northern Ireland Bill - Suspension of devolved government
+660;;;1999-07-13;;;Northern Ireland Bill - Suspension of prisoner releases
+661;;;1999-07-13;;;Northern Ireland Bill
+662;;;1999-07-13;;;Broadcasting (Religious Programming)
+663;;;1999-07-12;;;Estimates and Supplementary Estimates, 1999-2000 - FOOD STANDARDS BILL [Ways and Means]
+664;;;1999-07-08;;;Youth Justice and Criminal Evidence Bill [Lords] - Conditions for making an order under section 44(5)
+665;;;1999-07-08;;;Youth Justice and Criminal Evidence Bill [Lords] - Referral of young offenders to youth offender panels
+666;;;1999-07-07;;;Education (Choice and Diversity)
+667;;;1999-07-07;;;Education (Choice and Diversity)
+668;;;1999-07-07;;;Dairy Industry
+669;;;1999-07-06;;;Finance Bill - Repeals
+670;;;1999-07-06;;;Finance Bill - Economic and monetary union: taxes and duties
+671;;;1999-07-06;;;Finance Bill - Rates of duty and rebate on hydrocarbon oil
+672;;;1999-07-05;;;Finance Bill - Non-tax payers
+673;;;1999-06-29;;;Planning and Transport Congestion
+674;;;1999-06-29;;;Planning and Transport Congestion
+675;;;1999-06-29;;;Passport Delays
+676;;;1999-06-24;;;Widows
+677;;;1999-06-23;;;Proportional Representation
+678;;;1999-06-22;;;Access to Justice Bill [Lords] - Title
+679;;;1999-06-22;;;Access to Justice Bill [Lords] - Community Legal Service: excluded services.
+680;;;1999-06-22;;;Access to Justice Bill [Lords] - Principles applicable to Part I
+681;;;1999-06-22;;;Tax Credits Bill
+682;;;1999-06-22;;;Tax Credits Bill - Payment of tax credit by employers etc
+683;;;1999-06-16;;;Immigration and Asylum Bill - Repeals
+684;;;1999-06-16;;;Immigration and Asylum Bill - Code of practice
+685;;;1999-06-16;;;Immigration and Asylum Bill - Repeal of section 8 of the Asylum and Immigration Act 1996
+686;;;1999-06-16;;;Immigration and Asylum Bill - Support for children
+687;;;1999-06-15;;;Health Bill [Lords] - Repeals
+688;;;1999-06-15;;;Health Bill [Lords] - Health and safety of NHS doctors
+689;;;1999-06-15;;;Health Bill [Lords] - Criteria for appraisals by the National Institute for Clinical Excellence
+690;;;1999-06-15;;;Health Bill [Lords] and Immigration and Asylum Bill (Allocation of Time) - Interpretation
+691;;;1999-06-14;;;Delegated Legislation - Professions supplementary to medicine
+692;;;1999-06-14;;;Delegated Legislation - Professions Supplementary to Medicine
+693;;;1999-06-14;;;Delegated Legislation - Professions Supplementary to Medicine
+694;;;1999-06-08;;;Animal Welfare (Prohibition of Imports)
+695;;;1999-05-26;;;Members' Travel
+696;;;1999-05-26;;;Line of Route
+697;;;1999-05-24;;;Modernisation of the House of Commons
+698;;;1999-05-24;;;Modernisation of the House of Commons
+699;;;1999-05-24;;;Modernisation of the House of Commons
+700;;;1999-05-21;;;Referendums Bill - Commencement (No. 2)
+701;;;1999-05-20;;;Welfare Reform and Pensions Bill - Extent
+702;;;1999-05-20;;;Welfare Reform and Pensions Bill
+703;;;1999-05-20;;;Welfare Reform and Pensions Bill - Duty as an employer to offer payroll deduction facility
+704;;;1999-05-20;;;Welfare Reform and Pensions Bill - Incapacity benefit: restriction to recent contributors
+705;;;1999-05-20;;;Welfare Reform and Pensions Bill (Allocation of Time) - Miscellaneous
+706;;;1999-05-19;;;Delegated Legislation - Terms and conditions of employment
+707;;;1999-05-19;;;Delegated Legislation - Section 5 of the European Communities (Amendment) Act 1993
+708;;;1999-05-19;;;NHS Personnel
+709;;;1999-05-19;;;NHS Personnel
+710;;;1999-05-19;;;European Union Fraud
+711;;;1999-05-17;;;Welfare Reform and Pensions Bill
+712;;;1999-05-17;;;Welfare Reform and Pensions Bill
+713;;;1999-05-17;;;Welfare Reform and Pensions Bill - Income support premiums payable upon termination of bereavement allowance
+714;;;1999-05-17;;;Welfare Reform and Pensions Bill - Age additions
+715;;;1999-05-17;;;Welfare Reform and Pensions Bill - Earnings of workers supplied by service companies etc.
+716;;;1999-05-17;;;Welfare Reform and Pensions Bill - Excessive pension contributions made by persons who have become insolvent
+717;;;1999-05-17;;;Welfare Reform and Pensions Bill - Optional work-focused interviews
+718;;;1999-05-17;;;Welfare Reform and Pensions Bill - Extension of entitlement to state maternity allowance
+719;;;1999-05-14;;;Fur Farming (Prohibition) Bill - Offences relating to fur farming
+720;;;1999-05-14;;;Fur Farming (Prohibition) Bill - Appropriate authority responsibility for forfeited animals
+721;;;1999-05-13;;;Parliamentary Democracy
+722;;;1999-05-13;;;American Food Exports and European Trade Policy
+723;;;1999-05-12;;;Northern Ireland (Location of Victims' Remains) Bill - Funeral expenses
+724;;;1999-05-11;;;Devolution
+725;;;1999-05-11;;;Devolution
+726;;;1999-05-11;;;Pensions
+727;;;1999-05-10;;;Northern Ireland (Location of Victims' Remains) Bill
+728;;;1999-05-05;;;Greater London Authority Bill - Interpretation of Chapter XIV
+729;;;1999-05-05;;;Greater London Authority Bill - Road user charging
+730;;;1999-05-05;;;Greater London Authority Bill - PPP agreements
+731;;;1999-05-04;;;Greater London Authority Bill - Smoking in London taxis and private hire vehicles
+732;;;1999-05-04;;;Greater London Authority Bill - GLA transport grant
+733;;;1999-05-04;;;Greater London Authority Bill - Nomination of candidate for Mayor
+734;;;1999-05-04;;;Sex Education in Schools
+735;;;1999-04-29;;;Industry and Employment
+736;;;1999-04-29;;;Industry and Employment
+737;;;1999-04-29;;;Housing and the Green Belt
+738;;;1999-04-28;;;Finance Bill
+739;;;1999-04-28;;;Finance Bill - Stamp duty on conveyance or transfer on sale
+740;;;1999-04-28;;;Finance Bill
+741;;;1999-04-28;;;Finance Bill
+742;;;1999-04-28;;;Finance Bill - Restriction of MCA to those reaching 65 before 2000-01
+743;;;1999-04-27;;;Finance Bill - Hydrocarbon oil duties
+744;;;1999-04-21;;;British Livestock Farming
+745;;;1999-04-21;;;British Livestock Farming
+746;;;1999-04-21;;;Road Haulage Industry
+747;;;1999-04-21;;;Road Haulage Industry
+748;;;1999-04-20;;;Finance Bill
+749;;;1999-04-20;;;Finance Bill
+750;;;1999-04-19;;;Kosovo
+751;;;1999-04-14;;;Access to Justice Bill [Lords]
+752;;;1999-04-14;;;Access to Justice Bill [Lords]
+753;;;1999-04-13;;;Health Bill [Lords]
+754;;;1999-04-13;;;Health Bill [Lords]
+755;;;1999-03-31;;;Employment Relations Bill - '9. Compensatory award: removal of limit in certain cases
+756;;;1999-03-31;;;Employment Relations Bill - Collective Bargaining: Recognition
+757;;;1999-03-31;;;Employment Relations Bill - Employment agencies
+758;;;1999-03-31;;;Delegated Legislation - Value Added Tax
+759;;;1999-03-30;;;Employment Relations Bill - Assessment of working days lost as a result of Act
+760;;;1999-03-30;;;Employment Relations Bill - Discrimination in the work-place on grounds of sexual orientation
+761;;;1999-03-30;;;Employment Relations Bill - Discrimination in the work-place on grounds of age
+762;;;1999-03-30;;;Employment Relations Bill - Small employers' exemption
+763;;;1999-03-29;;;New Writ (Newark)
+764;;;1999-03-24;;;Local Government Bill - Finance
+765;;;1999-03-24;;;Local Government Bill - Endorsement of council tax by referendum
+766;;;1999-03-24;;;Local Government Bill (Allocation of Time)
+767;;;1999-03-23;;;Local Government Bill
+768;;;1999-03-23;;;Local Government Bill
+769;;;1999-03-23;;;Local Government Bill - Requirement for overriding order
+770;;;1999-03-23;;;Local Government Bill [Money] (No. 2)
+771;;;1999-03-22;;;EU-US Trade
+772;;;1999-03-22;;;Council Tax Increases
+773;;;1999-03-19;;;Referendums Bill
+774;;;1999-03-19;;;Referendums Bill
+775;;;1999-03-18;;;Roads
+776;;;1999-03-18;;;Roads
+777;;;1999-03-18;;;Policing
+778;;;1999-03-17;;;Tax Credits Bill
+779;;;1999-03-17;;;Tax Credits Bill - Repeals.
+780;;;1999-03-17;;;Tax Credits Bill
+781;;;1999-03-17;;;Tax Credits Bill - Payment Of Tax Credit By Employers Etc
+782;;;1999-03-17;;;Tax Credits Bill - Payment of tax credits to agricultural employees
+783;;;1999-03-17;;;Tax Credits Bill - Housing costs
+784;;;1999-03-16;;;European Community Documents - Transport Infrastructure Charging
+785;;;1999-03-16;;;Delegated Legislation - Local Government Finance
+786;;;1999-03-16;;;Delegated Legislation - Local Government Finance (Scotland)
+787;;;1999-03-16;;;Delegated Legislation - Local Government Finance (Wales)
+788;;;1999-03-16;;;House of Lords Bill
+789;;;1999-03-16;;;House of Lords Bill
+790;;;1999-03-15;;;Finance [Money]
+791;;;1999-03-15;;;Budget Resolutions and Economic Situation - 49. Insurance premium tax (standard rate)
+792;;;1999-03-15;;;Budget Resolutions and Economic Situation - 45. Ring fence profits
+793;;;1999-03-15;;;Budget Resolutions and Economic Situation - 37. Extra-statutory arrangements for insurance groups
+794;;;1999-03-15;;;Budget Resolutions and Economic Situation - 25. Cars available for private use
+795;;;1999-03-15;;;Budget Resolutions and Economic Situation - 21. Rates of capital gains tax
+796;;;1999-03-15;;;Budget Resolutions and Economic Situation - 16. Value added tax (meaning of "business")
+797;;;1999-03-15;;;Budget Resolutions and Economic Situation - 5. Tobacco products duty (rates)
+798;;;1999-03-15;;;Budget Resolutions and Economic Situation - 3. Hydrocarbon oil duties (rates and rebates)
+799;;;1999-03-15;;;Budget Resolutions and Economic Situation - 2. Sparkling cider (rate of duty)
+800;;;1999-03-10;;;European Community Documents - Treatment of End of Life Vehicles
+801;;;1999-03-05;;;Fur Farming (Prohibition) Bill
+802;;;1999-03-04;;;Delegated Legislation - Terms and Conditions of Employment
+803;;;1999-03-04;;;Delegated Legislation - Terms and Conditions of Employment
+804;;;1999-03-04;;;Delegated Legislation - Local Government Finance
+805;;;1999-03-04;;;House of Lords Bill - Criteria for conferment of life peerage (No. 3)
+806;;;1999-03-03;;;Delegated Legislation - Constitutional Law
+807;;;1999-03-03;;;Delegated Legislation - Constitutional Law
+808;;;1999-03-03;;;Delegated Legislation - Constitutional Law
+809;;;1999-03-03;;;House of Lords Bill
+810;;;1999-03-03;;;House of Lords Bill - Commencement and transitional provision
+811;;;1999-03-02;;;Burdens on Schools
+812;;;1999-03-02;;;Sierra Leone
+813;;;1999-03-01;;;Delegated Legislation - Court of Auditors Report
+814;;;1999-03-01;;;Delegated Legislation - Local Government Finance
+815;;;1999-03-01;;;Corporation Tax
+816;;;1999-03-01;;;Sexual Offences (Amendment) Bill - Sexual Offences (Amendment) Bill
+817;;;1999-03-01;;;Sexual Offences (Amendment) Bill - Defences available to persons who are under age
+818;;;1999-02-24;;;Rating (Valuation) Bill
+819;;;1999-02-24;;;Rating (Valuation) Bill - Rateable value
+820;;;1999-02-24;;;City of London (Ward Elections) Bill (By Order)
+821;;;1999-02-24;;;Social Security Contributions (Transfer of Functions, etc.) Bill - Information
+822;;;1999-02-23;;;Welfare Reform and Pensions Bill
+823;;;1999-02-23;;;Welfare Reform and Pensions Bill
+824;;;1999-02-22;;;Immigration and Asylum Bill
+825;;;1999-02-22;;;Immigration and Asylum Bill
+826;;;1999-02-16;;;House of Lords Bill
+827;;;1999-02-16;;;House of Lords Bill - Exclusion of hereditary peers
+828;;;1999-02-15;;;House of Lords Bill - Exclusion of hereditary peers
+829;;;1999-02-11;;;Local Government Finance (Scotland)
+830;;;1999-02-10;;;Water Industry Bill - Regulations concerning charges schemes
+831;;;1999-02-10;;;Water Industry Bill - Provisions for Wales
+832;;;1999-02-10;;;Sexual Offences (Amendment) Bill - Reduction in age at which certain sexual acts are lawful
+833;;;1999-02-10;;;Poverty and Social Exclusion (National Strategy)
+834;;;1999-02-09;;;Employment Relations Bill
+835;;;1999-02-08;;;Social Security Contributions (Transfer of Functions, Etc.) Bill [Lords]
+836;;;1999-02-04;;;National Lottery
+837;;;1999-02-04;;;Local Government Finance
+838;;;1999-02-04;;;Police
+839;;;1999-02-03;;;Planning
+840;;;1999-02-03;;;Planning
+841;;;1999-02-03;;;Pensions
+842;;;1999-02-02;;;House of Lords Bill
+843;;;1999-02-02;;;House of Lords Bill
+844;;;1999-01-27;;;London Underground
+845;;;1999-01-27;;;London Underground
+846;;;1999-01-27;;;Terrorist Mutilations (Northern Ireland)
+847;;;1999-01-26;;;Tax Credits Bill
+848;;;1999-01-26;;;Tax Credits Bill
+849;;;1999-01-25;;;Sexual Offences (Amendment) Bill
+850;;;1999-01-21;;;Road Traffic (NHS Charges) Bill
+851;;;1999-01-21;;;Road Traffic (NHS Charges) Bill - Information contained in certificates
+852;;;1999-01-21;;;Road Traffic (NHS Charges) Bill - Abolition of emergency treatment fee
+853;;;1999-01-20;;;Greater London Authority Bill
+854;;;1999-01-20;;;Greater London Authority Bill - Voting at ordinary elections
+855;;;1999-01-20;;;Greater London Authority Bill - Membership of the Authority and the Assembly
+856;;;1999-01-19;;;Greater London Authority Bill
+857;;;1999-01-19;;;Greater London Authority Bill
+858;;;1999-01-19;;;Greater London Authority Bill - Membership of the Authority and the Assembly
+859;;;1999-01-18;;;Dividend Tax Credits
+860;;;1999-01-18;;;Dividend Tax Credits
+861;;;1999-01-18;;;NHS (Rationing)
+862;;;1999-01-13;;;UK Role in Europe
+863;;;1999-01-13;;;Government Information
+864;;;1999-01-12;;;Local Government Bill
+865;;;1999-01-12;;;Local Government Bill
+866;;;1999-01-11;;;Rating (Valuation) Bill
+867;;;1998-12-16;;;Modernisation of the House - MEETINGS OF STANDING COMMITTEES (No. 1)
+868;;;1998-12-16;;;Modernisation of the House
+869;;;1998-12-16;;;Modernisation of the House
+870;;;1998-12-15;;;Fisheries
+871;;;1998-12-15;;;Fisheries
+872;;;1998-12-15;;;Greater London Authority Bill
+873;;;1998-12-09;;;Tax Harmonisation
+874;;;1998-12-09;;;Tax Harmonisation
+875;;;1998-12-09;;;Decommissioning and Prisoner Releases
+876;;;1998-12-09;;;Decommissioning and Prisoner Releases
+877;;;1998-12-08;;;Road Traffic (NHS Charges) Bill
+878;;;1998-12-02;;;European Parliamentary Elections Bill [Money]
+879;;;1998-12-02;;;European Parliamentary Elections Bill [Money] - Repeals and Revocations
+880;;;1998-12-02;;;European Parliamentary Elections Bill [Money] - Minor and consequential amendments
+881;;;1998-12-02;;;European Parliamentary Elections Bill [Money] - Minor and Consequential Amendments of Schedule 1 to the European Parliamentary Elections Act 1978
+882;;;1998-12-02;;;European Parliamentary Elections Bill [Money] - New schedule 2 to the European Parliamentary Elections Act 1978
+883;;;1998-12-02;;;European Parliamentary Elections Bill [Money] - Commencement
+884;;;1998-12-02;;;European Parliamentary Elections Bill [Money] - Expenses
+885;;;1998-12-02;;;European Parliamentary Elections Bill [Money] - Amendments and repeals
+886;;;1998-12-02;;;European Parliamentary Elections Bill [Money] - Electoral regions in England
+887;;;1998-12-02;;;European Parliamentary Elections Bill [Money] - Number of MEPs, electoral regions and electoral system
+888;;;1998-12-02;;;European Parliamentary Elections Bill [Money]
+889;;;1998-12-02;;;European Parliamentary Elections Bill
+890;;;1998-12-02;;;European Parliamentary Elections Bill (Allocation of Time)
+891;;;1998-12-01;;;The Economy
+892;;;1998-12-01;;;The Economy
+893;;;1998-12-01;;;The Economy
+894;;;1998-11-30;;;Constitution and Parliament
+895;;;1998-11-18;;;Northern Ireland Bill (Programme) (No. 2)
+896;;;1998-11-18;;;European Parliamentary Elections Bill
+897;;;1998-11-17;;;Stakeholder Pension
+898;;;1998-11-16;;;European Parliamentary Elections Bill
+899;;;1998-11-11;;;Scotland Bill - Scrutiny of Bills by the Presiding Officer.
+900;;;1998-11-11;;;Scotland Bill - Constituencies, regions and regional members
+901;;;1998-11-10;;;Income Tax
+902;;;1998-11-10;;;European Parliamentary Elections Bill
+903;;;1998-11-10;;;Factory Closures
+904;;;1998-11-04;;;Agriculture
+905;;;1998-11-04;;;Agriculture
+906;;;1998-11-04;;;The Economy
+907;;;1998-10-27;;;Working Time
+908;;;1998-10-27;;;European Parliamentary Elections Bill - Number of MEPs, electoral regions and electoral system
+909;;;1998-10-26;;;Farming and Food
+910;;;1998-10-26;;;Economy
+911;;;1998-10-21;;;Human Rights Bill [Lords] - Power to take remedial action
+912;;;1998-10-21;;;Human Rights Bill [Lords] - No remedial order before determination of European Commission of Human Rights
+913;;;1998-10-20;;;Strategic Defence Review - [Second Day]
+914;;;1998-09-02;;;Criminal Justice (Terrorism and Conspiracy) Bill - Conspiracy to commit offences outside the United Kingdom
+915;;;1998-09-02;;;Criminal Justice (Terrorism and Conspiracy) Bill - England and Wales
+916;;;1998-09-02;;;Criminal Justice (Terrorism and Conspiracy) Bill - Evidence and inferences: Great Britain
+917;;;1998-09-02;;;Criminal Justice (Terrorism and Conspiracy) Bill
+918;;;1998-09-02;;;Business of the House (Criminal Justice (Terrorism and Conspiracy) Bill)
+919;;;1998-07-31;;;Northern Ireland Bill
+920;;;1998-07-30;;;Northern Ireland Bill - Exclusion of Ministers from office
+921;;;1998-07-30;;;Northern Ireland Bill - Transferred, excepted and reserved matters
+922;;;1998-07-29;;;Northern Ireland (Sentences)
+923;;;1998-07-29;;;Rural Areas
+924;;;1998-07-29;;;Government Policy (Presentation)
+925;;;1998-07-29;;;Parliamentary Oaths (Amendment)
+926;;;1998-07-28;;;National Minimum Wage Bill - New clause
+927;;;1998-07-27;;;Northern Ireland Bill - Participation in NSMC and BIC
+928;;;1998-07-23;;;Northern Ireland Bill - Exclusion of Ministers from office
+929;;;1998-07-22;;;Northern Ireland Bill - Previous enactments
+930;;;1998-07-22;;;Northern Ireland Bill - Status of Northern Ireland
+931;;;1998-07-22;;;Government of Wales Bill - Disqualification from being Assembly member
+932;;;1998-07-22;;;Government of Wales Bill - Transfer of Ministerial functions
+933;;;1998-07-21;;;European Single Currency
+934;;;1998-07-21;;;Government and Parliament
+935;;;1998-07-20;;;Northern Ireland Bill
+936;;;1998-07-15;;;School Standards and Framework Bill - Constitution of governing bodies
+937;;;1998-07-15;;;School Standards and Framework Bill - Restrictions on financial assistance to non-maintained schools
+938;;;1998-07-15;;;School Standards and Framework Bill - Governing bodies
+939;;;1998-07-15;;;School Standards and Framework Bill - School organisation committees
+940;;;1998-07-13;;;Teaching and Higher Education Bill [Lords] - Imposition of conditions as to fees at further and higher education institutions in Scotland
+941;;;1998-07-13;;;Department of Social Security
+942;;;1998-07-13;;;Manufacturing and Industrial Relations
+943;;;1998-07-08;;;Competition Bill [Lords] - General Exclusions
+944;;;1998-07-08;;;Competition Bill [Lords] - Abuse of dominant position
+945;;;1998-07-08;;;Competition Bill [Lords]
+946;;;1998-07-07;;;Select Committees (Information)
+947;;;1998-07-03;;;Fireworks Bill - Prohibition of supply etc. of other explosives.
+948;;;1998-07-03;;;Fireworks Bill - Training courses
+949;;;1998-07-02;;;Human Rights Bill [Lords] - Guarantee of non-discrimination
+950;;;1998-07-01;;;Teaching and Higher Education Bill [Lords]
+951;;;1998-07-01;;;Teaching and Higher Education Bill [Lords]
+952;;;1998-07-01;;;Teaching and Higher Education Bill [Lords] - New arrangements for giving financial support to students
+953;;;1998-07-01;;;Finance (No. 2) Bill - Repeals
+954;;;1998-06-30;;;Finance (No. 2) Bill - Capital allowances for sea going vessels
+955;;;1998-06-30;;;Finance (No. 2) Bill - Tax credit compensation for charities with investments in mixed funds
+956;;;1998-06-30;;;Finance (No. 2) Bill - Special regard to trading patterns of the retail industry
+957;;;1998-06-30;;;Finance (No. 2) Bill - Repayment of dividend tax credit to non-taxpayers
+958;;;1998-06-29;;;Class Sizes
+959;;;1998-06-29;;;The Economy
+960;;;1998-06-24;;;Human Rights Bill [Lords]
+961;;;1998-06-24;;;Human Rights Bill [Lords] - Proceedings
+962;;;1998-06-23;;;Crime and Disorder Bill [Lords] - Racially-aggravated offences: England and Wales
+963;;;1998-06-22;;;Crime and Disorder Bill [Lords]
+964;;;1998-06-22;;;Crime and Disorder Bill [Lords] - Reduction in age at which certain sexual acts are lawful
+965;;;1998-06-18;;;Northern Ireland (Sentences) Bill - Sentences passed outside Northern Ireland
+966;;;1998-06-18;;;Northern Ireland (Sentences) Bill - Applications
+967;;;1998-06-17;;;Northern Ireland (Sentences) Bill - Licences: conditions
+968;;;1998-06-16;;;Council Tax (Derbyshire)
+969;;;1998-06-16;;;Local Government (Scotland)
+970;;;1998-06-16;;;Local Government (Scotland)
+971;;;1998-06-16;;;Hospital Waiting Lists
+972;;;1998-06-15;;;Northern Ireland (Sentences) Bill
+973;;;1998-06-15;;;Northern Ireland (Sentences) Bill
+974;;;1998-06-15;;;Northern Ireland (Sentences) Bill
+975;;;1998-06-15;;;Northern Ireland (Sentences) Bill - Applications
+976;;;1998-06-10;;;Northern Ireland (Sentences) Bill
+977;;;1998-06-09;;;European Communities (Amendment) Bill - New clause
+978;;;1998-06-09;;;Teaching and Higher Education Bill [Lords] - Title
+979;;;1998-06-08;;;Delegated Legislation - Marine Pollution
+980;;;1998-06-08;;;Delegated Legislation - Contracting Out
+981;;;1998-06-08;;;Teaching and Higher Education Bill [Lords]
+982;;;1998-06-08;;;Teaching and Higher Education Bill [Lords] - New arrangements for giving financial support to students
+983;;;1998-06-03;;;Human Rights Bill [Lords] - Declaration of Incompatibility
+984;;;1998-06-03;;;Human Rights Bill [Lords] - Legislation
+985;;;1998-06-02;;;Electoral System
+986;;;1998-06-01;;;National Lottery Bill [Lords] - Objects
+987;;;1998-06-01;;;National Lottery Bill [Lords] - The new good cause and the re-allocation of lottery money
+988;;;1998-06-01;;;National Lottery Bill [Lords] - Additionality
+989;;;1998-05-21;;;Deregulation - Union Subscriptions
+990;;;1998-05-21;;;Common Agricultural Policy
+991;;;1998-05-20;;;Human Rights Bill [Lords]
+992;;;1998-05-20;;;Human Rights Bill [Lords]
+993;;;1998-05-20;;;Human Rights Bill [Lords] - The Convention and the First Protocol
+994;;;1998-05-19;;;Scotland Bill - Reserved matters
+995;;;1998-05-19;;;Scotland Bill - Remuneration of members of the Parliament and Executive
+996;;;1998-05-19;;;Scotland Bill - Stages of Bills
+997;;;1998-05-18;;;Territorial Army
+998;;;1998-05-18;;;Sierra Leone
+999;;;1998-05-14;;;Tax Credits (Initial Expenditure) Bill - Authorisation of expenditure
+1000;;;1998-05-13;;;Social Security Bill - New clause
+1001;;;1998-05-13;;;Social Security Bill - New clause
+1002;;;1998-05-12;;;Scotland Bill - Powers to intervene in certain cases
+1003;;;1998-05-12;;;Scotland Bill - Constitutional Court
+1004;;;1998-05-12;;;Scotland Bill - Concordats
+1005;;;1998-05-12;;;Scotland Bill - Corruption or maladministration in local government
+1006;;;1998-05-11;;;Competition Bill [Lords]
+1007;;;1998-05-11;;;Competition Bill [Lords]
+1008;;;1998-05-06;;;Scotland Bill - Review of role of Scottish Members of House of Commons
+1009;;;1998-04-30;;;Economic and Monetary Union
+1010;;;1998-04-30;;;Economic and Monetary Union
+1011;;;1998-04-29;;;Orders of the Day - Married couple's allowance etc. in and after 1999-2000
+1012;;;1998-04-29;;;Orders of the Day - Charge and rates for 1998-99
+1013;;;1998-04-29;;;Orders of the Day
+1014;;;1998-04-29;;;Orders of the Day - Taper relief for CGT
+1015;;;1998-04-28;;;Finance (No. 2) Bill - Rates of tobacco products duty
+1016;;;1998-04-28;;;Finance (No. 2) Bill - Rates of duties and rebates
+1017;;;1998-04-28;;;Finance (No. 2) Bill - Rate of duty on beer
+1018;;;1998-04-27;;;Finance (No. 2) Bill - Stamp duty on conveyance or transfer on sale
+1019;;;1998-04-27;;;Finance (No. 2) Bill - Use of PEPs powers to provide for accounts
+1020;;;1998-04-27;;;Finance (No. 2) Bill - [Mr. Michael J. Martin in the Chair]
+1021;;;1998-04-22;;;Northern Ireland (Elections) Bill
+1022;;;1998-04-22;;;Northern Ireland (Elections) Bill - Disqualification
+1023;;;1998-04-22;;;Northern Ireland (Elections) Bill - The Assembly
+1024;;;1998-04-22;;;Northern Ireland (Elections) Bill (Programme) - Miscellaneous
+1025;;;1998-04-21;;;Finance (No. 2) Bill
+1026;;;1998-04-21;;;Finance (No. 2) Bill
+1027;;;1998-04-20;;;Bank of England Bill - Monetary Policy Committee.
+1028;;;1998-04-07;;;National Lottery Bill [Lords] [Money]
+1029;;;1998-04-07;;;National Lottery Bill [Lords]
+1030;;;1998-04-06;;;Manufacturing Industry
+1031;;;1998-04-06;;;Trade Union Recognition
+1032;;;1998-04-01;;;Regional Development Agencies Bill - Vesting and acquisition of land: supplementary provisions
+1033;;;1998-04-01;;;Regional Development Agencies Bill - Acquisition of land
+1034;;;1998-04-01;;;Regional Development Agencies Bill - Access to meetings etc. of regional development agencies
+1035;;;1998-04-01;;;Regional Development Agencies Bill - Activities of agencies in rural areas
+1036;;;1998-03-31;;;Delegated Legislation - Pensions
+1037;;;1998-03-31;;;Scotland Bill - Register of concordats
+1038;;;1998-03-31;;;Scotland Bill - Sex discrimination in selection of candidates
+1039;;;1998-03-31;;;Scotland Bill
+1040;;;1998-03-31;;;Scotland Bill - Reserved matters
+1041;;;1998-03-30;;;Scotland Bill - Reserved Matters
+1042;;;1998-03-25;;;Government of Wales Bill - Voting at ordinary elections
+1043;;;1998-03-25;;;Government of Wales Bill - Power to enter into concordat
+1044;;;1998-03-25;;;Government of Wales Bill (Programme)
+1045;;;1998-03-24;;;School Standards and Framework Bill - Transitional provisions and savings
+1046;;;1998-03-24;;;School Standards and Framework Bill - Abolition of corporal punishment in schools etc.
+1047;;;1998-03-24;;;School Standards and Framework Bill - Parliamentary scrutiny of Annual Report of the Chief Inspector for England
+1048;;;1998-03-24;;;School Standards and Framework Bill - Partnership schemes
+1049;;;1998-03-24;;;School Standards and Framework Bill - Designation of grammar schools
+1050;;;1998-03-24;;;School Standards and Framework Bill - Permitted selection: aptitude for particular subjects
+1051;;;1998-03-24;;;School Standards and Framework Bill - Code of practice
+1052;;;1998-03-24;;;School Standards and Framework Bill - Adjudicators
+1053;;;1998-03-24;;;School Standards and Framework Bill - Reinstitution of standards for educational premises
+1054;;;1998-03-24;;;School Standards and Framework Bill - Discontinuance of maintained rural primary schools
+1055;;;1998-03-23;;;Budget Resolutions and Economic Situation - 26. Corporation tax (due and payable date)
+1056;;;1998-03-23;;;Budget Resolutions and Economic Situation - 21. Value added tax (long leases in Scotland)
+1057;;;1998-03-23;;;Budget Resolutions and Economic Situation - 4. Wine and made-wine (rates of duty)
+1058;;;1998-03-23;;;Budget Resolutions and Economic Situation - 2. Beer (rate of duty)
+1059;;;1998-03-16;;;Teaching and Higher Education Bill [Lords] [Money] - Queen's recommendation having been signified--
+1060;;;1998-03-16;;;Teaching and Higher Education Bill [Lords]
+1061;;;1998-03-16;;;Teaching and Higher Education Bill [Lords]
+1062;;;1998-03-13;;;Waste Minimisation Bill [Money]
+1063;;;1998-03-13;;;Wild Mammals (Hunting with Dogs) Bill - Circumstances in which shooting is unsafe or impractical
+1064;;;1998-03-13;;;Wild Mammals (Hunting with Dogs) Bill
+1065;;;1998-03-13;;;Wild Mammals (Hunting with Dogs) Bill - Hunting beginning in the Republic of Ireland
+1066;;;1998-03-13;;;Wild Mammals (Hunting with Dogs) Bill - Gun Packs
+1067;;;1998-03-13;;;Wild Mammals (Hunting with Dogs) Bill - Mink
+1068;;;1998-03-13;;;Wild Mammals (Hunting with Dogs) Bill
+1069;;;1998-03-13;;;Wild Mammals (Hunting with Dogs) Bill - Power to amend
+1070;;;1998-03-12;;;European Parliamentary Elections Bill - Minor and consequential amendments of Schedule 1 to the European Parliamentary Elections Act 1978
+1071;;;1998-03-12;;;European Parliamentary Elections Bill - Number of MEPs, electoral regions and electoral system
+1072;;;1998-03-12;;;European Parliamentary Elections Bill - Review of alternative voting systems
+1073;;;1998-03-11;;;School Standards and Framework Bill - Grant Maintained Schools
+1074;;;1998-03-11;;;School Standards and Framework Bill - Functions of Education Action Forum
+1075;;;1998-03-11;;;School Standards and Framework Bill - Establishment of education action zones
+1076;;;1998-03-11;;;School Standards and Framework Bill
+1077;;;1998-03-10;;;Pensioners' Incomes
+1078;;;1998-03-10;;;Taxation
+1079;;;1998-03-09;;;Road Traffic Reduction (United Kingdom Targets) Bill [Money]
+1080;;;1998-03-09;;;National Minimum Wage Bill - Repeals and revocations
+1081;;;1998-03-09;;;National Minimum Wage Bill - Company directors
+1082;;;1998-03-06;;;Wild Mammals (Hunting with Dogs) Bill
+1083;;;1998-03-06;;;Wild Mammals (Hunting with Dogs) Bill - Fox control in national parks
+1084;;;1998-03-04;;;Scotland Bill - Cross-border public bodies: initial status
+1085;;;1998-03-03;;;Listening to the Countryside
+1086;;;1998-03-03;;;Listening to the Countryside
+1087;;;1998-03-03;;;ISAs, TESSAs and PEPs
+1088;;;1998-03-02;;;Government of Wales Bill - Decisions affecting vital interests of a region
+1089;;;1998-02-26;;;European Parliamentary Elections Bill - Commencement
+1090;;;1998-02-26;;;European Parliamentary Elections Bill
+1091;;;1998-02-26;;;European Parliamentary Elections Bill
+1092;;;1998-02-26;;;European Parliamentary Elections Bill
+1093;;;1998-02-26;;;European Parliamentary Elections Bill
+1094;;;1998-02-26;;;European Parliamentary Elections Bill - Number of MEPs, electoral regions and electoral system
+1095;;;1998-02-24;;;European Parliamentary Elections Bill
+1096;;;1998-02-24;;;European Parliamentary Elections Bill - Number of MEPs, electoral regions and electoral system
+1097;;;1998-02-23;;;Scotland Bill - Changes to income tax structure
+1098;;;1998-02-23;;;Scotland Bill - Scottish taxpayers
+1099;;;1998-02-23;;;Scotland Bill - Power to fix basic rate for Scottish taxpayers
+1100;;;1998-02-19;;;Local Government Finance (Scotland)
+1101;;;1998-02-17;;;Iraq
+1102;;;1998-02-16;;;Human Rights Bill [Lords]
+1103;;;1998-02-16;;;Human Rights Bill [Lords]
+1104;;;1998-02-12;;;Scotland Bill
+1105;;;1998-02-12;;;Scotland Bill - Scottish Consolidated Fund
+1106;;;1998-02-11;;;Greater London Authority (Referendum) Bill
+1107;;;1998-02-11;;;Greater London Authority (Referendum) Bill - Form of Ballot Paper
+1108;;;1998-02-11;;;Greater London Authority (Referendum) Bill
+1109;;;1998-02-11;;;Greater London Authority (Referendum) Bill
+1110;;;1998-02-11;;;Greater London Authority (Referendum) Bill - Referendum
+1111;;;1998-02-10;;;Beef Bones Regulations
+1112;;;1998-02-10;;;Scotland Bill - Power to prevent or require action
+1113;;;1998-02-10;;;Scotland Bill - Exercise of functions
+1114;;;1998-02-10;;;Scotland Bill - Ministers
+1115;;;1998-02-10;;;Scotland Bill - The Scottish Executive
+1116;;;1998-02-09;;;Railways
+1117;;;1998-02-09;;;Child Support Agency
+1118;;;1998-02-05;;;Local Government Finance
+1119;;;1998-02-05;;;Local Government Finance
+1120;;;1998-02-05;;;Local Government Finance
+1121;;;1998-02-04;;;Public Processions (Northern Ireland) Bill [Lords]
+1122;;;1998-02-04;;;Public Processions (Northern Ireland) Bill [Lords] - Secretary of State's powers to prohibit public processions
+1123;;;1998-02-04;;;Public Processions (Northern Ireland) Bill [Lords] - Functions of the Commission
+1124;;;1998-02-04;;;Public Processions (Northern Ireland) Bill [Lords] - Prohibition orders
+1125;;;1998-02-04;;;Public Processions (Northern Ireland) Bill [Lords] - The Commission's powers to impose conditions on public processions
+1126;;;1998-02-03;;;Delegated Legislation - Northern Ireland
+1127;;;1998-02-03;;;Government of Wales Bill - Relations with local government
+1128;;;1998-02-03;;;Government of Wales Bill - Grants to Assembly
+1129;;;1998-02-02;;;Government of Wales Bill - Assembly First Secretary
+1130;;;1998-01-29;;;Scotland Bill - Acts of the Scottish Parliament
+1131;;;1998-01-28;;;Scotland Bill - Constituencies, regions and regional members
+1132;;;1998-01-28;;;Scotland Bill - The Scottish Parliament
+1133;;;1998-01-27;;;London Underground
+1134;;;1998-01-27;;;Protection of the Countryside
+1135;;;1998-01-22;;;Bank of England Bill - Transitional provisions and savings
+1136;;;1998-01-22;;;Bank of England Bill - Confirmation hearings for Bank appointments
+1137;;;1998-01-21;;;Government of Wales Bill - Transfer of Ministerial functions
+1138;;;1998-01-20;;;Government of Wales Bill
+1139;;;1998-01-20;;;Government of Wales Bill - Membership
+1140;;;1998-01-20;;;Government of Wales Bill - The Assembly
+1141;;;1998-01-19;;;European Communities (Amendment) Bill - Exchange of information between Court of Auditors and other bodies
+1142;;;1998-01-19;;;European Communities (Amendment) Bill - Police operations in co-operation with Europol
+1143;;;1998-01-19;;;European Communities (Amendment) Bill - Meaning of "the Treaties" and "the Community Treaties"
+1144;;;1998-01-15;;;European Communities (Amendment) Bill
+1145;;;1998-01-15;;;European Communities (Amendment) Bill - Meaning of "the Treaties" and "the Community Treaties"
+1146;;;1998-01-14;;;Regional Development Agencies Bill
+1147;;;1998-01-14;;;Regional Development Agencies Bill
+1148;;;1998-01-13;;;Scotland Bill
+1149;;;1997-12-22;;;School Standards and Framework Bill
+1150;;;1997-12-18;;;Public Processions (Northern Ireland) Bill [Lords]
+1151;;;1997-12-17;;;European Communities (Amendment) Bill (Allocation of Time)
+1152;;;1997-12-17;;;Fisheries
+1153;;;1997-12-17;;;Fisheries
+1154;;;1997-12-16;;;National Minimum Wage Bill
+1155;;;1997-12-11;;;Northern Ireland (Emergency Provisions) Bill - Detention orders
+1156;;;1997-12-11;;;European Community Documents - Agenda 2000: Reform of the Common Agricultural Policy
+1157;;;1997-12-10;;;European Community Documents - Employment Law
+1158;;;1997-12-10;;;Social Security Bill - Short title, commencement and extent
+1159;;;1997-12-10;;;Social Security Bill - Power to reduce child benefit for lone parents
+1160;;;1997-12-10;;;Social Security Bill - New schedule 1
+1161;;;1997-12-10;;;Social Security Bill - Backdating of benefit
+1162;;;1997-12-10;;;Social Security Bill
+1163;;;1997-12-10;;;Doctor Assisted Dying
+1164;;;1997-12-09;;;European Community Documents - European Police Office (Definition of Treaties)
+1165;;;1997-12-09;;;European Community Documents - European Police Office (Immunities and Privileges)
+1166;;;1997-12-09;;;Government of Wales Bill
+1167;;;1997-12-09;;;Government of Wales Bill
+1168;;;1997-12-09;;;Government of Wales Bill
+1169;;;1997-12-03;;;European Communities (Amendment) Bill - Meaning of "the Treaties" and "the Community Treaties"
+1170;;;1997-12-02;;;European Communities (Amendment) Bill - Meaning of "the Treaties" and "the Community Treaties"
+1171;;;1997-12-01;;;Burdens on Business
+1172;;;1997-12-01;;;Welfare, Pensions and Disabled People
+1173;;;1997-11-28;;;Wild Mammals (Hunting with Dogs) Bill
+1174;;;1997-11-26;;;Greater London Authority (Referendum) Bill
+1175;;;1997-11-25;;;European Parliamentary Elections Bill
+1176;;;1997-11-24;;;Greater London Authority (Referendum) Bill
+1177;;;1997-11-24;;;Greater London Authority (Referendum) Bill - Functions of the Local Government Commission
+1178;;;1997-11-24;;;Greater London Authority (Referendum) Bill - Counting Officers
+1179;;;1997-11-24;;;Greater London Authority (Referendum) Bill - Form of ballot paper
+1180;;;1997-11-24;;;Greater London Authority (Referendum) Bill
+1181;;;1997-11-24;;;Greater London Authority (Referendum) Bill - Referendum
+1182;;;1997-11-19;;;Greater London Authority (Referendum) Bill
+1183;;;1997-11-19;;;Greater London Authority (Referendum) Bill - [Sir Alan Haselhurst in the Chair]
+1184;;;1997-11-17;;;Public Services
+1185;;;1997-11-17;;;Public Services
+1186;;;1997-11-12;;;European Communities (Amendment) Bill
+1187;;;1997-11-11;;;Bank of England Bill
+1188;;;1997-11-10;;;Greater London Authority (Referendum) Bill
+1189;;;1997-11-06;;;Royal Assent
+1190;;;1997-11-04;;;Rural Life
+1191;;;1997-11-04;;;Rural Life
+1192;;;1997-11-04;;;Student Finance
+1193;;;1997-11-04;;;Student Finance
+1194;;;1997-11-03;;;Education (Student Loans) Bill - Regulations to prescribe certain terms of student loan agreements
+1195;;;1997-11-03;;;Firearms (Amendment) Bill - Competition Pistols
+1196;;;1997-11-03;;;Firearms (Amendment) Bill - Disabled persons: exemption.
+1197;;;1997-07-30;;;Referendums (Scotland and Wales) Bill
+1198;;;1997-07-30;;;Referendums (Scotland and Wales) Bill - Referendum in Scotland
+1199;;;1997-07-29;;;Table - Repeals
+1200;;;1997-07-29;;;Table - Foreign income dividends
+1201;;;1997-07-29;;;Table - Tax credits
+1202;;;1997-07-29;;;Table
+1203;;;1997-07-28;;;Finance Bill - Stamp duty on conveyance or transfer on sale
+1204;;;1997-07-28;;;Finance Bill - Mortgage Interest Payments
+1205;;;1997-07-28;;;Finance Bill
+1206;;;1997-07-28;;;Finance Bill - Rate of duty on spirits
+1207;;;1997-07-24;;;Education (Schools) Bill - Transitional arrangements for existing assisted pupils
+1208;;;1997-07-24;;;European Community Documents - 1998 Preliminary Draft Budget
+1209;;;1997-07-22;;;Social Security Bill
+1210;;;1997-07-21;;;Education (Student Loans) Bill
+1211;;;1997-07-17;;;Council Tax
+1212;;;1997-07-16;;;Finance Bill
+1213;;;1997-07-16;;;Finance Bill - Pension funds no longer entitled to payment of tax credits
+1214;;;1997-07-16;;;Finance Bill - Withdrawal of relief on medical insurance premiums
+1215;;;1997-07-15;;;Finance Bill
+1216;;;1997-07-15;;;Finance Bill - Mortgage Interest Payments
+1217;;;1997-07-15;;;Finance Bill - Charge to windfall tax
+1218;;;1997-07-14;;;Orders of the Day National Health Service (Private Finance) Bill [Lords]
+1219;;;1997-07-14;;;Orders of the Day National Health Service (Private Finance) Bill [Lords] - Powers of NHS trusts to enter into agreements
+1220;;;1997-07-14;;;Finance Bill (Allocation of Time)
+1221;;;1997-07-10;;;Finance Bill
+1222;;;1997-07-09;;;Pensions
+1223;;;1997-07-08;;;Local Government Finance (Supplementary Credit Approvals) Bill - Power in place of duty to specify amortisation period
+1224;;;1997-07-08;;;Local Government Finance (Supplementary Credit Approvals) Bill - Local authority debt reduction strategies
+1225;;;1997-07-08;;;Local Government Finance (Supplementary Credit Approvals) Bill - Duty of Secretary of State to have regard to accessibility standards
+1226;;;1997-07-07;;;Budget Resolutions and Economic Situation - 22. Relief for film production and acquisition expenditure
+1227;;;1997-07-07;;;Budget Resolutions and Economic Situation - 13. Surplus franked investment income
+1228;;;1997-07-07;;;Budget Resolutions and Economic Situation - 11. Withdrawal of relief on medical insurance premiums
+1229;;;1997-07-07;;;Budget Resolutions and Economic Situation - 9. Vehicle excise duty (increase in rates)
+1230;;;1997-07-07;;;Budget Resolutions and Economic Situation - 3. Spirits (rate of duty)
+1231;;;1997-07-07;;;Budget Resolutions and Economic Situation
+1232;;;1997-06-25;;;London Underground
+1233;;;1997-06-25;;;London Underground - NHS Services (Charging)
+1234;;;1997-06-25;;;London Underground
+1235;;;1997-06-24;;;Plant Varieties Bill
+1236;;;1997-06-19;;;Common Agricultural Policy
+1237;;;1997-06-18;;;Firearms (Amendment) Bill
+1238;;;1997-06-18;;;Firearms (Amendment) Bill - Exemption for national competition shooters
+1239;;;1997-06-18;;;Firearms (Amendment) Bill
+1240;;;1997-06-18;;;Firearms (Amendment) Bill
+1241;;;1997-06-18;;;Firearms (Amendment) Bill - Consequential amendments and repeals
+1242;;;1997-06-18;;;Firearms (Amendment) Bill - Prohibition of small-calibre pistols
+1243;;;1997-06-17;;;Local Government Finance (Supplementary Credit Approvals) Bill
+1244;;;1997-06-16;;;Firearms (Amendment) Bill - Prohibition of small-calibre pistols
+1245;;;1997-06-11;;;Firearms (Amendment) Bill
+1246;;;1997-06-11;;;Firearms (Amendment) Bill
+1247;;;1997-06-10;;;Education (Schools) Bill - Power of local authority to continue to assist pupils
+1248;;;1997-06-10;;;Education (Schools) Bill - Regulations for purposes of transitional arrangements
+1249;;;1997-06-10;;;Education (Schools) Bill
+1250;;;1997-06-10;;;Education (Schools) Bill - Transitional Arrangements for Existing Assisted Pupils
+1251;;;1997-06-09;;;European Union
+1252;;;1997-06-09;;;European Union
+1253;;;1997-06-05;;;Education (Schools) Bill
+1254;;;1997-06-05;;;Education (Schools) Bill
+1255;;;1997-06-05;;;Education (Schools) Bill - Transitional arrangements for existing assisted pupils
+1256;;;1997-06-05;;;Education (Schools) Bill
+1257;;;1997-06-05;;;Education (Schools) Bill
+1258;;;1997-06-05;;;Education (Schools) Bill - Abolition of assisted places scheme in England and Wales
+1259;;;1997-06-04;;;Referendums (Scotland and Wales) Bill
+1260;;;1997-06-04;;;Referendums (Scotland and Wales) Bill - Referendum in Wales
+1261;;;1997-06-04;;;Referendums (Scotland and Wales) Bill
+1262;;;1997-06-04;;;Referendums (Scotland and Wales) Bill
+1263;;;1997-06-04;;;Referendums (Scotland and Wales) Bill - Referendum in Scotland
+1264;;;1997-06-03;;;Referendums (Scotland and Wales) Bill - Referendum in Scotland
+1265;;;1997-06-03;;;M66 - 3 Jun 1997 : Column 187 Referendums (Scotland and Wales) Bill (Allocation of Time)
+1266;;;1997-06-02;;;Education (Schools) Bill [Money]
+1267;;;1997-06-02;;;Education (Schools) Bill
+1268;;;1997-05-22;;;Referendums (Scotland and Wales) Bill
+1269;;;1997-05-20;;;The Economy and European Affairs
+1270;;;1997-05-20;;;The Economy and European Affairs
+1271;;;1997-05-20;;;The Economy and European Affairs
+1272;;;1997-05-19;;;Home Affairs
